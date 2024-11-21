@@ -1,0 +1,130 @@
+department,year,pop
+cordoba,2009,1329605
+cordoba,2010,3373025
+cordoba,2011,3411773
+cordoba,2012,3450673
+cordoba,2013,3489669
+cordoba,2014,3528687
+cordoba,2015,3567654
+cordoba,2016,3606540
+cordoba,2017,3645321
+cordoba,2018,3683937
+buenos aires,2010,15716942
+buenos aires,2011,15909607
+buenos aires,2012,16100618
+buenos aires,2013,16289599
+buenos aires,2014,16476149
+buenos aires,2015,16659931
+buenos aires,2016,16841135
+catamarca,2010,377676
+catamarca,2011,381548
+catamarca,2012,385408
+catamarca,2013,389256
+catamarca,2014,393088
+catamarca,2015,396895
+catamarca,2016,400678
+chaco,2010,1080017
+chaco,2011,1092625
+chaco,2012,1105280
+chaco,2013,1117953
+chaco,2014,1130608
+chaco,2015,1143201
+chaco,2016,1155723
+ciudad buenos aires,2010,3028481
+ciudad buenos aires,2011,3033639
+ciudad buenos aires,2012,3038860
+ciudad buenos aires,2013,3044076
+ciudad buenos aires,2014,3049229
+ciudad buenos aires,2015,3054267
+ciudad buenos aires,2016,3059122
+corrientes,2010,1017731
+corrientes,2011,1028248
+corrientes,2012,1038786
+corrientes,2013,1049325
+corrientes,2014,1059836
+corrientes,2015,1070283
+corrientes,2016,1080655
+entre rios,2010,1255574
+entre rios,2011,1268744
+entre rios,2012,1281931
+entre rios,2013,1295121
+entre rios,2014,1308290
+entre rios,2015,1321415
+entre rios,2016,1334489
+formosa,2010,551626
+formosa,2011,557223
+formosa,2012,562794
+formosa,2013,568331
+formosa,2014,573823
+formosa,2015,579250
+formosa,2016,584614
+jujuy,2010,683513
+jujuy,2011,692379
+jujuy,2012,701252
+jujuy,2013,710121
+jujuy,2014,718971
+jujuy,2015,727780
+jujuy,2016,736542
+la pampa,2010,327028
+la pampa,2011,330268
+la pampa,2012,333496
+la pampa,2013,336706
+la pampa,2014,339895
+la pampa,2015,343056
+la pampa,2016,346191
+la rioja,2010,342582
+la rioja,2011,347494
+la rioja,2012,352476
+la rioja,2013,357516
+la rioja,2014,362605
+la rioja,2015,367728
+la rioja,2016,372879
+mendoza,2010,1774737
+mendoza,2011,1797235
+mendoza,2012,1819608
+mendoza,2013,1841813
+mendoza,2014,1863809
+mendoza,2015,1885551
+mendoza,2016,1907045
+misiones,2010,1113279
+misiones,2011,1128798
+misiones,2012,1144189
+misiones,2013,1159445
+misiones,2014,1174542
+misiones,2015,1189446
+misiones,2016,1204182
+salta,2010,1239111
+salta,2011,1258111
+salta,2012,1277062
+salta,2013,1295944
+salta,2014,1314726
+salta,2015,1333365
+salta,2016,1351878
+san juan,2010,696076
+san juan,2011,704652
+san juan,2012,713240
+san juan,2013,721830
+san juan,2014,730408
+san juan,2015,738959
+san juan,2016,747488
+santa fe,2010,3257907
+santa fe,2011,3285408
+santa fe,2012,3313212
+santa fe,2013,3341228
+santa fe,2014,3369365
+santa fe,2015,3397532
+santa fe,2016,3425656
+santiago del estero,2010,879246
+santiago del estero,2011,888809
+santiago del estero,2012,898484
+santiago del estero,2013,908268
+santiago del estero,2014,918147
+santiago del estero,2015,928097
+santiago del estero,2016,938109
+tucuman,2010,1489225
+tucuman,2011,1509932
+tucuman,2012,1530689
+tucuman,2013,1551460
+tucuman,2014,1572205
+tucuman,2015,1592878
+tucuman,2016,1613476

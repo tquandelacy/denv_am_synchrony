@@ -1,0 +1,379 @@
+country,NAME_0,NAME_1,long,lat,department,db_name
+mx,Mexico,Aguascalientes,-102.3836993,21.97758243,aguascalientes,aguascalientes
+mx,Mexico,Baja California,-115.0786616,30.51953819,baja california,baja_california
+mx,Mexico,Baja California Sur,-112.026774,25.87709088,baja california sur,baja_california_sur
+mx,Mexico,Campeche,-90.30709771,18.82885795,campeche,campeche
+mx,Mexico,Chiapas,-92.4753921,16.49085817,chiapas,chiapas
+mx,Mexico,Chihuahua,-106.4540013,28.81823836,chihuahua,chihuahua
+mx,Mexico,Coahuila,-102.0967673,27.28552926,coahuila,coahuila
+mx,Mexico,Colima,-103.9213373,19.1410415,colima,colima
+mx,Mexico,Distrito Federal,-99.08794199,19.23831959,distrito federal,distrito_federal
+mx,Mexico,Durango,-104.9856769,24.90167666,durango,durango
+mx,Mexico,Guanajuato,-101.037028,20.89807765,guanajuato,guanajuato
+mx,Mexico,Guerrero,-99.87815075,17.66564879,guerrero,guerrero
+mx,Mexico,Hidalgo,-98.8575747,20.4836992,hidalgo,hidalgo
+mx,Mexico,Jalisco,-103.6273483,20.55774894,jalisco,jalisco
+mx,Mexico,México,-99.62722216,19.34071389,mexico,mexico
+mx,Mexico,Michoacán,-101.8845218,19.19943009,michoacan,michoacan
+mx,Mexico,Morelos,-99.00673723,18.73249118,morelos,morelos
+mx,Mexico,Nayarit,-104.8564226,21.78154128,nayarit,nayarit
+mx,Mexico,Nuevo León,-99.99729444,25.58009086,nuevo leon,nuevo_leon
+mx,Mexico,Oaxaca,-96.43783458,16.95563972,oaxaca,oaxaca
+mx,Mexico,Puebla,-97.81618328,19.03753172,puebla,puebla
+mx,Mexico,Querétaro,-99.87792801,20.84094418,queretaro,queretaro
+mx,Mexico,Quintana Roo,-88.11727119,19.6712983,quintana roo,quintana_roo
+mx,Mexico,San Luis Potosí,-100.4515453,22.6058954,san luis potosi,san_luis_potosi
+mx,Mexico,Sinaloa,-107.4926632,24.99255151,sinaloa,sinaloa
+mx,Mexico,Sonora,-110.7613656,29.68339944,sonora,sonora
+mx,Mexico,Tabasco,-92.6188108,17.93219228,tabasco,tabasco
+mx,Mexico,Tamaulipas,-98.67234051,24.30216879,tamaulipas,tamaulipas
+mx,Mexico,Tlaxcala,-98.08314079,19.45185066,tlaxcala,tlaxcala
+mx,Mexico,Veracruz,-96.37867842,19.35365316,veracruz,veracruz
+mx,Mexico,Yucatán,-88.92563223,20.78030736,yucatan,yucatan
+mx,Mexico,Zacatecas,-102.7088606,23.26659152,zacatecas,zacatecas
+gt,Guatemala,Alta Verapaz,-90.13243637,15.63553327,alta verapaz,alta_verapaz
+gt,Guatemala,Baja Verapaz,-90.3710782,15.10119718,baja verapaz,baja_verapaz
+gt,Guatemala,Chimaltenango,-90.92037503,14.69391258,chimaltenango,chimaltenango
+gt,Guatemala,Chiquimula,-89.41827525,14.6901145,chiquimula,chiquimula
+gt,Guatemala,El Progreso,-90.08054763,14.89484082,el progreso,el_progreso
+gt,Guatemala,Escuintla,-90.99640772,14.16376911,escuintla,escuintla
+gt,Guatemala,Guatemala,-90.48779733,14.62976735,guatemala,guatemala
+gt,Guatemala,Huehuetenango,-91.54556455,15.65936746,huehuetenango,huehuetenango
+gt,Guatemala,Izabal,-89.03859295,15.55097289,izabal,izabal
+gt,Guatemala,Jalapa,-89.94503544,14.62016411,jalapa,jalapa
+gt,Guatemala,Jutiapa,-89.89224635,14.21148354,jutiapa,jutiapa
+gt,Guatemala,Petén,-90.01503002,16.97356741,el peten,el_peten
+gt,Guatemala,Quezaltenango,-91.71413083,14.78749072,quetzaltenango,quetzaltenango
+gt,Guatemala,Quiché,-90.93634274,15.43250294,quiche,quiche
+gt,Guatemala,Retalhuleu,-91.78942619,14.41869354,retalhuleu,retalhuleu
+gt,Guatemala,Sacatepéquez,-90.74148206,14.55277043,sacatepequez,sacatepequez
+gt,Guatemala,San Marcos,-91.93232156,15.01935358,san marcos,san_marcos
+gt,Guatemala,Santa Rosa,-90.3339631,14.1669681,santa rosa,santa_rosa
+gt,Guatemala,Sololá,-91.25894678,14.71662228,solola,solola
+gt,Guatemala,Suchitepéquez,-91.40865742,14.40343665,suchitepequez,suchitepequez
+gt,Guatemala,Totonicapán,-91.37723643,15.01312356,totonicapan,totonicapan
+gt,Guatemala,Zacapa,-89.50699998,15.0352529,zacapa,zacapa
+sv,El Salvador,Ahuachapán,-89.90191115,13.85753791,ahuachapan,ahuachapan
+sv,El Salvador,Cabañas,-88.70883855,13.87702643,cabanas,cabanas
+sv,El Salvador,Chalatenango,-89.07460249,14.13117611,chalatenango,chalatenango
+sv,El Salvador,Cuscatlán,-89.02002293,13.83559499,cuscatlan,cuscatlan
+sv,El Salvador,La Libertad,-89.36265532,13.7042149,la libertad,la_libertad
+sv,El Salvador,La Paz,-88.96411666,13.47524394,la paz,la_paz
+sv,El Salvador,La Unión,-87.88939811,13.52314036,la union,la_union
+sv,El Salvador,Morazán,-88.10674829,13.7664523,morazan,morazan
+sv,El Salvador,San Miguel,-88.25469007,13.53607609,san miguel,san_miguel
+sv,El Salvador,San Salvador,-89.1654302,13.76328557,san salvador,san_salvador
+sv,El Salvador,San Vicente,-88.72111079,13.60134505,san vicente,san_vicente
+sv,El Salvador,Santa Ana,-89.50516127,14.11760513,santa ana,santa_ana
+sv,El Salvador,Sonsonate,-89.68425638,13.69417285,sonsonate,sonsonate
+sv,El Salvador,Usulután,-88.49040233,13.38213827,usulutan,usulutan
+pa,Panama,Bocas del Toro,-82.57931629,9.21478326,bocas del toro,bocas_del_toro
+pa,Panama,Chiriquí,-82.398494,8.48904538,chiriqui,chiriqui
+pa,Panama,Coclé,-80.42621768,8.55744603,cocle,cocle
+pa,Panama,Colón,-80.01406582,9.18931625,colon,colon
+pa,Panama,Darién,-77.9158002,8.17013433,darien,darien
+pa,Panama,Emberá,-77.76504709,8.23283567,embera,embera
+pa,Panama,Herrera,-80.70050975,7.85482091,herrera,herrera
+pa,Panama,Kuna Yala,-78.31549502,9.17479619,kuna yala,kuna_yala
+pa,Panama,Los Santos,-80.39270222,7.58248413,los santos,los_santos
+pa,Panama,Ngöbe Buglé,-81.77034764,8.65810249,ngobe bugle,ngobe_bugle
+pa,Panama,Panamá,-78.85174438,9.06619218,panama,panama
+pa,Panama,Panamá Oeste,-79.90446593,8.82469205,panama oeste,panama_oeste
+pa,Panama,Panama Metro,-79.51667,8.983333,panama metro,panama_metro
+pa,Panama,San Miguelito,-79.5,9.03333,san miguelito,san_miguelito
+pa,Panama,Veraguas,-81.13151401,8.09125222,veraguas,veraguas
+co,Colombia,Amazonas,-71.49178602,-1.55438601,amazonas,amazonas
+co,Colombia,Antioquia,-75.59169707,6.91041665,antioquia,antioquia
+co,Colombia,Arauca,-70.95462034,6.54783281,arauca,arauca
+co,Colombia,Atlántico,-74.90317642,10.71712163,atlantico,atlantico
+co,Colombia,Bogota,-74.08175,4.60971,bogota,bogota
+co,Colombia,Bolívar,-74.51445709,8.71290732,bolivar,bolivar
+co,Colombia,Boyacá,-73.12176349,5.75953207,boyaca,boyaca
+co,Colombia,Caldas,-75.33899896,5.33202804,caldas,caldas
+co,Colombia,Caquetá,-73.98605939,0.77600732,caqueta,caqueta
+co,Colombia,Casanare,-71.62288965,5.36855771,casanare,casanare
+co,Colombia,Cauca,-76.85724843,2.3862401,cauca,cauca
+co,Colombia,Cesar,-73.53626458,9.51846209,cesar,cesar
+co,Colombia,Chocó,-76.97111851,5.98735733,choco,choco
+co,Colombia,Córdoba,-75.79959845,8.35055737,cordoba,cordoba
+co,Colombia,Cundinamarca,-74.12572228,4.76467034,cundinamarca,cundinamarca
+co,Colombia,Guainía,-68.82399057,2.70987369,guainia,guainia
+co,Colombia,Guaviare,-72.1267888,1.89760488,guaviare,guaviare
+co,Colombia,Huila,-75.63988671,2.53903907,huila,huila
+co,Colombia,La Guajira,-72.45516693,11.45658717,la guajira,la_guajira
+co,Colombia,Magdalena,-74.26465251,10.18911826,magdalena,magdalena
+co,Colombia,Meta,-72.96614806,3.31878714,meta,meta
+co,Colombia,Nariño,-77.86731351,1.56341229,narino,narino
+co,Colombia,Norte de Santander,-72.88932802,8.07747317,norte santander,norte_santander
+co,Colombia,Putumayo,-75.87830226,0.44780081,putumayo,putumayo
+co,Colombia,Quindío,-75.69018239,4.47823363,quindio,quindio
+co,Colombia,Risaralda,-75.92144947,5.06808203,risaralda,risaralda
+co,Colombia,San Andrés y Providencia,-81.52318464,12.95185786,arch san andres-prov-sta catalina,arch_san_andres-prov-sta_catalina
+co,Colombia,Santander,-73.51501539,6.67539406,santander,santander
+co,Colombia,Sucre,-75.12276568,9.06298155,sucre,sucre
+co,Colombia,Tolima,-75.26617093,4.04415188,tolima,tolima
+co,Colombia,Valle del Cauca,-76.53174509,3.86885549,valle del cauca,valle_del_cauca
+co,Colombia,Vaupés,-70.56799975,0.60107214,vaupes,vaupes
+co,Colombia,Vichada,-69.41520233,4.68044302,vichada,vichada
+ve,Venezuela,Amazonas,-65.93688885,3.41241096,amazonas,amazonas
+ve,Venezuela,Anzoátegui,-64.40552892,8.89437323,anzoategui,anzoategui
+ve,Venezuela,Apure,-68.78671091,7.12458817,apure,apure
+ve,Venezuela,Aragua,-67.1035189,9.97543474,aragua,aragua
+ve,Venezuela,Barinas,-69.85877206,8.14125648,barinas,barinas
+ve,Venezuela,Bolívar,-63.4863297,6.21331337,bolivar,bolivar
+ve,Venezuela,Carabobo,-67.95725408,10.19151039,carabobo,carabobo
+ve,Venezuela,Cojedes,-68.32212545,9.35073048,cojedes,cojedes
+ve,Venezuela,Delta Amacuro,-61.32994035,8.75974753,delta amacuro,delta_amacuro
+ve,Venezuela,Dependencias Federales,-65.49030133,11.41254324,dependencias federales,dependencias_federales
+ve,Venezuela,Distrito Capital,-66.96390396,10.48008295,distrito capital,distrito_capital
+ve,Venezuela,Falcón,-69.78912362,11.07843589,falcon,falcon
+ve,Venezuela,Guárico,-66.50691562,8.80396849,guarico,guarico
+ve,Venezuela,Lara,-69.76569099,10.18108198,lara,lara
+ve,Venezuela,Mérida,-71.25037877,8.52832544,merida,merida
+ve,Venezuela,Miranda,-66.35914841,10.25014237,miranda,miranda
+ve,Venezuela,Monagas,-63.01756961,9.39217789,monagas,monagas
+ve,Venezuela,Nueva Esparta,-64.0468219,10.98485263,nueva esparta,nueva_esparta
+ve,Venezuela,Portuguesa,-69.24748853,9.03089324,portuguesa,portuguesa
+ve,Venezuela,Sucre,-63.37819683,10.41281734,sucre,sucre
+ve,Venezuela,Táchira,-72.02370324,7.92727744,tachira,tachira
+ve,Venezuela,Trujillo,-70.51010381,9.46921781,trujillo,trujillo
+ve,Venezuela,Vargas,-66.90493195,10.54855435,vargas,vargas
+ve,Venezuela,Yaracuy,-68.70080951,10.31458899,yaracuy,yaracuy
+ve,Venezuela,Zulia,-72.08512396,9.93020326,zulia,zulia
+pe,Peru,Amazonas,-78.05081158,-5.07407893,amazonas,amazonas
+pe,Peru,Ancash,-77.67179525,-9.40712495,ancash,ancash
+pe,Peru,Apurímac,-72.97537807,-14.02771348,apurimac,apurimac
+pe,Peru,Arequipa,-72.4755394,-15.84352375,arequipa,arequipa
+pe,Peru,Ayacucho,-74.08343953,-14.09164833,ayacucho,ayacucho
+pe,Peru,Cajamarca,-78.74560131,-6.43013047,cajamarca,cajamarca
+pe,Peru,Callao,-77.13604207,-11.95460878,callao,callao
+pe,Peru,Cusco,-72.15360886,-13.19106821,cusco,cusco
+pe,Peru,Huancavelica,-75.00276985,-13.02388758,huancavelica,huancavelica
+pe,Peru,Huánuco,-76.04064201,-9.4216756,huanuco,huanuco
+pe,Peru,Ica,-75.57482117,-14.23509723,ica,ica
+pe,Peru,Junín,-74.87696792,-11.54178273,junin,junin
+pe,Peru,La Libertad,-78.37023831,-7.92139022,la libertad,la_libertad
+pe,Peru,Lambayeque,-79.82411326,-6.35304918,lambayeque,lambayeque
+pe,Peru,Lima,-76.60449762,-11.76653316,lima,lima
+pe,Peru,Lima Province,-76.90478283,-12.01802692,lima province,lima_province
+pe,Peru,Loreto,-74.4240734,-4.12381518,loreto,loreto
+pe,Peru,Madre de Dios,-70.53171957,-11.97269888,madre de dios,madre_de_dios
+pe,Peru,Moquegua,-70.83904631,-16.86027059,moquegua,moquegua
+pe,Peru,Pasco,-75.30763472,-10.39655007,pasco,pasco
+pe,Peru,Piura,-80.33558399,-5.13322118,piura,piura
+pe,Peru,Puno,-69.92272646,-14.99582724,puno,puno
+pe,Peru,San Martín,-76.72912743,-7.03953062,san martin,san_martin
+pe,Peru,Tacna,-70.27755984,-17.64416077,tacna,tacna
+pe,Peru,Tumbes,-80.54521055,-3.85756176,tumbes,tumbes
+pe,Peru,Ucayali,-73.44492865,-9.62171778,ucayali,ucayali
+ec,Ecuador,Azuay,-79.15421733,-3.01413353,azuay,azuay
+ec,Ecuador,Bolivar,-79.10689316,-1.5872494,bolivar,bolivar
+ec,Ecuador,Cañar,-79.03040063,-2.53241627,canar,canar
+ec,Ecuador,Carchi,-78.06401716,0.75172871,carchi,carchi
+ec,Ecuador,Chimborazo,-78.72075408,-1.9750052,chimborazo,chimborazo
+ec,Ecuador,Cotopaxi,-78.85645852,-0.85798763,cotopaxi,cotopaxi
+ec,Ecuador,El Oro,-79.83251062,-3.50943312,el oro,el_oro
+ec,Ecuador,Esmeraldas,-79.22176809,0.70542398,esmeraldas,esmeraldas
+ec,Ecuador,Galápagos,-90.89996048,-0.54820685,galapagos,galapagos
+ec,Ecuador,Guayas,-79.88866163,-2.11741725,guayas,guayas
+ec,Ecuador,Imbabura,-78.37088355,0.40535681,imbabura,imbabura
+ec,Ecuador,Loja,-79.65585127,-4.09005041,loja,loja
+ec,Ecuador,Los Rios,-79.49144476,-1.34356867,los rios,los_rios
+ec,Ecuador,Manabi,-80.13667592,-0.75129429,manabi,manabi
+ec,Ecuador,Morona Santiago,-78.00753813,-2.56399013,morona santiago,morona_santiago
+ec,Ecuador,Napo,-77.82188397,-0.65702081,napo,napo
+ec,Ecuador,Orellana,-76.37452621,-0.78442776,orellana,orellana
+ec,Ecuador,Pastaza,-76.87972683,-1.7167745,pastaza,pastaza
+ec,Ecuador,Pichincha,-78.59355559,-0.10490532,pichincha,pichincha
+ec,Ecuador,Santa Elena,-80.57775056,-2.13949586,santa elena,santa_elena
+ec,Ecuador,Santo Domingo de los Tsachilas,-79.20002106,-0.28427723,santo domingo,santo_domingo
+ec,Ecuador,Sucumbios,-76.58910339,-0.01554071,sucumbios,sucumbios
+ec,Ecuador,Tungurahua,-78.50714598,-1.29437822,tungurahua,tungurahua
+ec,Ecuador,Zamora Chinchipe,-78.90384032,-4.16950951,zamora chinchipe,zamora_chinchipe
+br,Brazil,Acre,-70.44666618,-9.30991674,acre,acre
+br,Brazil,Alagoas,-36.62319562,-9.51555361,alagoas,alagoas
+br,Brazil,Amapá,-51.96103309,1.44004343,amapa,amapa
+br,Brazil,Amazonas,-64.71488058,-4.18677681,amazonas,amazonas
+br,Brazil,Bahia,-41.73007713,-12.47331113,bahia,bahia
+br,Brazil,Ceará,-39.6179021,-5.09146429,ceara,ceara
+br,Brazil,Distrito Federal,-47.79722597,-15.78111952,distrito federal,distrito_federal
+br,Brazil,Espírito Santo,-40.66114896,-19.64267182,espirito santo,espirito_santo
+br,Brazil,Goiás,-49.62332081,-16.04442885,goias,goias
+br,Brazil,Maranhão,-45.28740689,-5.0686993,maranhao,maranhao
+br,Brazil,Mato Grosso,-55.91920097,-12.94959988,mato grosso,mato_grosso
+br,Brazil,Mato Grosso do Sul,-54.84547026,-20.32589839,mato grosso do sul,mato_grosso_do_sul
+br,Brazil,Minas Gerais,-44.65770348,-18.45798563,minas gerais,minas_gerais
+br,Brazil,Pará,-53.06252532,-3.97338032,para,para
+br,Brazil,Paraíba,-36.87254734,-7.14256856,paraiba,paraiba
+br,Brazil,Paraná,-51.62375032,-24.6368312,parana,parana
+br,Brazil,Pernambuco,-37.99888227,-8.32604424,pernambuco,pernambuco
+br,Brazil,Piauí,-42.96912486,-7.38448444,piaui,piaui
+br,Brazil,Rio de Janeiro,-42.66135386,-22.19491892,rio de janeiro,rio_de_janeiro
+br,Brazil,Rio Grande do Norte,-36.68216571,-5.84698535,rio grande do norte,rio_grande_do_norte
+br,Brazil,Rio Grande do Sul,-53.31683674,-29.7378389,rio grande do sul,rio_grande_do_sul
+br,Brazil,Rondônia,-62.85654951,-10.89856477,rondonia,rondonia
+br,Brazil,Roraima,-61.39801946,2.08469221,roraima,roraima
+br,Brazil,Santa Catarina,-50.80061735,-26.29853803,santa catarina,santa_catarina
+br,Brazil,São Paulo,-48.73276064,-22.26541286,sao paulo,sao_paulo
+br,Brazil,Sergipe,-37.44606645,-10.59088956,sergipe,sergipe
+br,Brazil,Tocantins,-48.3300012,-10.15018372,tocantins,tocantins
+bb,Barbados,all,-59.55638952,13.17226208,all,all
+pr,Puerto Rico,all,-66.46814778,18.22200984,all,all
+cr,Costa Rica,Alajuela,-84.61024521,10.56323002,alajuela,alajuela
+cr,Costa Rica,Cartago,-83.68154227,9.81867678,cartago,cartago
+cr,Costa Rica,Guanacaste,-85.39463614,10.44955045,guanacaste,guanacaste
+cr,Costa Rica,Heredia,-84.01499703,10.4199865,heredia,heredia
+cr,Costa Rica,Limón,-83.3455817,9.94928869,limon,limon
+cr,Costa Rica,Puntarenas,-83.72393204,9.15402661,puntarenas,puntarenas
+cr,Costa Rica,San José,-83.98936585,9.60793239,san jose,san_jose
+ar,Argentina,Buenos Aires,-60.56597846,-36.68352662,buenos aires,buenos_aires
+ar,Argentina,Catamarca,-66.9524445,-27.33218321,catamarca,catamarca
+ar,Argentina,Chaco,-60.76674184,-26.38737495,chaco,chaco
+ar,Argentina,Chubut,-68.5232167,-43.78962611,chubut,chubut
+ar,Argentina,Ciudad de Buenos Aires,-58.44443585,-34.61767799,ciudad buenos aires,ciudad_buenos_aires
+ar,Argentina,Córdoba,-63.79954777,-32.1412181,cordoba,cordoba
+ar,Argentina,Corrientes,-57.80585864,-28.77651979,corrientes,corrientes
+ar,Argentina,Entre Ríos,-59.20754035,-32.04603236,entre rios,entre_rios
+ar,Argentina,Formosa,-59.93434035,-24.89443471,formosa,formosa
+ar,Argentina,Jujuy,-65.76219066,-23.31746423,jujuy,jujuy
+ar,Argentina,La Pampa,-65.44833774,-37.13031093,la pampa,la_pampa
+ar,Argentina,La Rioja,-67.1782928,-29.67988556,la rioja,la_rioja
+ar,Argentina,Mendoza,-68.58667905,-34.62865147,mendoza,mendoza
+ar,Argentina,Misiones,-54.64727701,-26.87487596,misiones,misiones
+ar,Argentina,Neuquén,-70.1179789,-38.6356254,neuquen,neuquen
+ar,Argentina,Río Negro,-67.22900144,-40.40681066,rio negro,rio_negro
+ar,Argentina,Salta,-64.81994139,-24.29608962,salta,salta
+ar,Argentina,San Juan,-68.87496045,-30.86424011,san juan,san_juan
+ar,Argentina,San Luis,-66.02992999,-33.76741265,san luis,san_luis
+ar,Argentina,Santa Cruz,-69.94144159,-48.81270671,santa cruz,santa_cruz
+ar,Argentina,Santa Fe,-60.95070867,-30.70353814,santa fe,santa_fe
+ar,Argentina,Santiago del Estero,-63.25847658,-27.78222843,santiago del estero,santiago_del_estero
+ar,Argentina,Tierra del Fuego,-67.40135145,-54.33202134,tierra del fuego,tierra_del_fuego
+ar,Argentina,Tucumán,-65.36569836,-26.94379196,tucuman,tucuman
+bz,Belize,Belize,-88.38051335,17.56129272,belize,belize
+bz,Belize,Cayo,-88.8900871,17.0099562,cayo,cayo
+bz,Belize,Corozal,-88.28683968,18.21948664,corozal,corozal
+bz,Belize,Orange Walk,-88.80745964,17.76916633,orange walk,orange_walk
+bz,Belize,Stann Creek,-88.46055924,16.84481278,stann creek,stann_creek
+bz,Belize,Toledo,-88.87151885,16.31278836,toledo,toledo
+bl,Bolivia,Chuquisaca,-64.29023959,-20.03866056,chuquisaca,chuquisaca
+bl,Bolivia,Cochabamba,-65.6329174,-17.23216485,cochabamba,cochabamba
+bl,Bolivia,El Beni,-65.15384977,-13.85661153,el beni,el_beni
+bl,Bolivia,La Paz,-68.12551947,-15.22300139,la paz,la_paz
+bl,Bolivia,Oruro,-67.69140766,-18.62618559,oruro,oruro
+bl,Bolivia,Pando,-67.31771821,-11.09125815,pando,pando
+bl,Bolivia,Potosí,-66.7266716,-20.53805053,potosi,potosi
+bl,Bolivia,Santa Cruz,-61.46098747,-17.29422482,santa cruz,santa_cruz
+bl,Bolivia,Tarija,-63.88307581,-21.59258612,tarija,tarija
+ch,Chile,Aisén del General Carlos Ibáñez del Campo,-73.26041335,-46.41965645,aisen del general carlos ibanez del campo,aisen_del_general_carlos_ibanez_del_campo
+ch,Chile,Antofagasta,-69.10302644,-23.45660048,antofagasta,antofagasta
+ch,Chile,Araucanía,-72.27993231,-38.69563785,araucania,araucania
+ch,Chile,Arica y Parinacota,-69.62214814,-18.43045796,arica y parinacota,arica_y_parinacota
+ch,Chile,Atacama,-69.91352323,-27.36934471,atacama,atacama
+ch,Chile,Bío-Bío,-72.43114739,-37.48525053,bio-bio,bio-bio
+ch,Chile,Coquimbo,-70.86966563,-30.60707014,coquimbo,coquimbo
+ch,Chile,Libertador General Bernardo O'Higgins,-71.06506577,-34.4291292,libertador general bernardo o higgins,libertador_general_bernardo_o_higgins
+ch,Chile,Los Lagos,-72.89815522,-42.03620172,los lagos,los_lagos
+ch,Chile,Los Ríos,-72.57393471,-40.06676622,los rios,los_rios
+ch,Chile,Magallanes y Antártica Chilena,-71.90046372,-52.47900449,magallanes y antartica chilena,magallanes_y_antartica_chilena
+ch,Chile,Maule,-71.41651916,-35.57615173,maule,maule
+ch,Chile,Ñuble,-71.92759288,-36.62217447,nuble,nuble
+ch,Chile,Región Metropolitana de Santiago,-70.65403426,-33.5854277,region metropolitana de santiago,region_metropolitana_de_santiago
+ch,Chile,Tarapacá,-69.4063587,-20.13888975,tarapaca,tarapaca
+ch,Chile,Valparaíso,-71.40897841,-32.65406706,valparaiso,valparaiso
+fg,French Guiana,Cayenne,-52.69764636,3.98956119,cayenne,cayenne
+fg,French Guiana,Saint-Laurent-du-Maroni,-53.7892637,3.86857123,saint-laurent-du-maroni,saint-laurent-du-maroni
+gy,Guyana,Barima-Waini,-59.74693268,7.61919969,barima-waini,barima-waini
+gy,Guyana,Cuyuni-Mazaruni,-59.94962944,6.15283566,cuyuni-mazaruni,cuyuni-mazaruni
+gy,Guyana,Demerara-Mahaica,-58.12133666,6.49165252,demerara-mahaica,demerara-mahaica
+gy,Guyana,East Berbice-Corentyne,-57.65912059,3.38426878,east berbice-corentyne,east_berbice-corentyne
+gy,Guyana,Essequibo Islands-West Demerara,-58.46494732,6.60948647,essequibo islands-west demerara,essequibo_islands-west_demerara
+gy,Guyana,Mahaica-Berbice,-57.84537072,6.20420105,mahaica-berbice,mahaica-berbice
+gy,Guyana,Pomeroon-Supenaam,-58.84071762,7.17011681,pomeroon-supenaam,pomeroon-supenaam
+gy,Guyana,Potaro-Siparuni,-59.30103734,4.85976759,potaro-siparuni,potaro-siparuni
+gy,Guyana,Upper Demerara-Berbice,-58.29358337,5.36421237,upper demerara-berbice,upper_demerara-berbice
+gy,Guyana,Upper Takutu-Upper Essequibo,-58.97180239,2.83599612,upper takutu-upper essequibo,upper_takutu-upper_essequibo
+hn,Honduras,Atlántida,-87.16402046,15.66255023,atlantida,atlantida
+hn,Honduras,Choluteca,-87.11701826,13.34594648,choluteca,choluteca
+hn,Honduras,Colón,-85.61156444,15.64024129,colon,colon
+hn,Honduras,Comayagua,-87.64010597,14.61296663,comayagua,comayagua
+hn,Honduras,Copán,-88.89409529,14.89890364,copan,copan
+hn,Honduras,Cortés,-87.99667906,15.39658769,cortes,cortes
+hn,Honduras,El Paraíso,-86.48299852,14.01655548,el paraiso,el_paraiso
+hn,Honduras,Francisco Morazán,-87.18812587,14.28352027,francisco morazan,francisco_morazan
+hn,Honduras,Gracias a Dios,-84.35015818,15.22430285,gracias a dios,gracias_a_dios
+hn,Honduras,Intibucá,-88.20422926,14.31695514,intibuca,intibuca
+hn,Honduras,Islas de la Bahía,-86.38021653,16.34106115,islas de la bahia,islas_de_la_bahia
+hn,Honduras,La Paz,-87.88235465,14.09483471,la paz,la_paz
+hn,Honduras,Lempira,-88.58750119,14.39697289,lempira,lempira
+hn,Honduras,Ocotepeque,-89.04319516,14.47734073,ocotepeque,ocotepeque
+hn,Honduras,Olancho,-85.93681989,14.8300544,olancho,olancho
+hn,Honduras,Santa Bárbara,-88.34704918,15.08669493,santa barbara,santa_barbara
+hn,Honduras,Valle,-87.58877235,13.53708353,valle,valle
+hn,Honduras,Yoro,-87.20288078,15.30052349,yoro,yoro
+nc,Nicaragua,Atlántico Norte,-84.22175903,13.99319825,atlantico norte,atlantico_norte
+nc,Nicaragua,Atlántico Sur,-84.22142469,12.32471327,atlantico sur,atlantico_sur
+nc,Nicaragua,Boaco,-85.51786905,12.45534026,boaco,boaco
+nc,Nicaragua,Carazo,-86.24851878,11.74274936,carazo,carazo
+nc,Nicaragua,Chinandega,-87.08863936,12.84642325,chinandega,chinandega
+nc,Nicaragua,Chontales,-85.12941859,12.09248048,chontales,chontales
+nc,Nicaragua,Estelí,-86.40446241,13.16884058,esteli,esteli
+nc,Nicaragua,Granada,-85.97252737,11.84834944,granada,granada
+nc,Nicaragua,Jinotega,-85.52308871,13.73866574,jinotega,jinotega
+nc,Nicaragua,Lago Nicaragua,-85.40339237,11.51822137,lago nicaragua,lago_nicaragua
+nc,Nicaragua,León,-86.63574626,12.58552469,leon,leon
+nc,Nicaragua,Madriz,-86.47528875,13.48490911,madriz,madriz
+nc,Nicaragua,Managua,-86.28618817,12.22217931,managua,managua
+nc,Nicaragua,Masaya,-86.09612566,11.99577832,masaya,masaya
+nc,Nicaragua,Matagalpa,-85.51450378,12.93447166,matagalpa,matagalpa
+nc,Nicaragua,Nueva Segovia,-86.21744575,13.7409906,nueva segovia,nueva_segovia
+nc,Nicaragua,Río San Juan,-84.48220647,11.24161599,rio san juan,rio_san_juan
+nc,Nicaragua,Rivas,-85.82826009,11.40247221,rivas,rivas
+py,Paraguay,Alto Paraguay,-59.41000905,-20.58976844,alto paraguay,alto_paraguay
+py,Paraguay,Alto Paraná,-54.95322228,-25.38805391,alto parana,alto_parana
+py,Paraguay,Amambay,-56.06264949,-22.87580774,amambay,amambay
+py,Paraguay,Asunción,-57.60262028,-25.27946255,asuncion,asuncion
+py,Paraguay,Boquerón,-61.05816877,-21.90423891,boqueron,boqueron
+py,Paraguay,Caaguazú,-55.88273109,-25.18672813,caaguazu,caaguazu
+py,Paraguay,Caazapá,-56.0589069,-26.23485603,caazapa,caazapa
+py,Paraguay,Canindeyú,-55.21860603,-24.22757238,canindeyu,canindeyu
+py,Paraguay,Central,-57.49360612,-25.53489498,central,central
+py,Paraguay,Concepción,-57.11931335,-22.83876088,concepcion,concepcion
+py,Paraguay,Cordillera,-56.9458056,-25.19186162,cordillera,cordillera
+py,Paraguay,Guairá,-56.2953977,-25.82298793,guaira,guaira
+py,Paraguay,Itapúa,-55.74704049,-26.83117314,itapua,itapua
+py,Paraguay,Misiones,-57.08549483,-26.95060791,misiones,misiones
+py,Paraguay,Ñeembucú,-57.90240666,-26.75998869,neembucu,neembucu
+py,Paraguay,Paraguarí,-57.1299273,-26.03942667,paraguari,paraguari
+py,Paraguay,Presidente Hayes,-58.68596514,-23.61277278,presidente hayes,presidente_hayes
+py,Paraguay,San Pedro,-56.64677904,-24.1649821,san pedro,san_pedro
+uy,Uruguay,Artigas,-56.95090083,-30.54679409,artigas,artigas
+uy,Uruguay,Canelones,-55.9586914,-34.51916275,canelones,canelones
+uy,Uruguay,Cerro Largo,-54.37491647,-32.40241206,cerro largo,cerro_largo
+uy,Uruguay,Colonia,-57.67853887,-34.11219389,colonia,colonia
+uy,Uruguay,Durazno,-56.1079015,-32.9353403,durazno,durazno
+uy,Uruguay,Flores,-56.93598018,-33.5098254,flores,flores
+uy,Uruguay,Florida,-55.90194246,-33.70327743,florida,florida
+uy,Uruguay,Lavalleja,-55.0086885,-33.86805701,lavalleja,lavalleja
+uy,Uruguay,Maldonado,-54.86186899,-34.54699158,maldonado,maldonado
+uy,Uruguay,Montevideo,-56.22673013,-34.82581794,montevideo,montevideo
+uy,Uruguay,Paysandú,-57.37946993,-32.03252318,paysandu,paysandu
+uy,Uruguay,Río Negro,-57.46636861,-32.71725678,rio negro,rio_negro
+uy,Uruguay,Rivera,-55.0344098,-31.6474948,rivera,rivera
+uy,Uruguay,Rocha,-54.02295846,-33.94321736,rocha,rocha
+uy,Uruguay,Salto,-57.04947574,-31.23718263,salto,salto
+uy,Uruguay,San José,-56.74566967,-34.27395896,san jose,san_jose
+uy,Uruguay,Soriano,-57.76432559,-33.47786125,soriano,soriano
+uy,Uruguay,Tacuarembó,-55.80700524,-32.03937625,tacuarembo,tacuarembo
+uy,Uruguay,Treinta y Tres,-54.30491542,-33.00139612,treinta y tres,treinta_y_tres
+su,Suriname,Brokopondo,-55.11516766,4.76435196,brokopondo,brokopondo
+su,Suriname,Commewijne,-54.90005335,5.75124929,commewijne,commewijne
+su,Suriname,Coronie,-56.27701182,5.64945354,coronie,coronie
+su,Suriname,Marowijne,-54.37014547,5.62798527,marowijne,marowijne
+su,Suriname,Nickerie,-56.89515141,5.61310736,nickerie,nickerie
+su,Suriname,Para,-55.3353104,5.34858457,para,para
+su,Suriname,Paramaribo,-55.18727624,5.85133568,paramaribo,paramaribo
+su,Suriname,Saramacca,-55.6403111,5.71825241,saramacca,saramacca
+su,Suriname,Sipaliwini,-56.03661324,3.76000831,sipaliwini,sipaliwini
+su,Suriname,Wanica,-55.2434802,5.7566111,wanica,wanica
+dr,Dominican Republic,All,-69.929611,18.483402,all,all

@@ -1,0 +1,101 @@
+country,year,department,pop
+ve,1990,Amazonas,55717
+ve,1990,Anzoategui,859758
+ve,1990,Apure,285412
+ve,1990,Aragua,1120132
+ve,1990,Barinas,424491
+ve,1990,Bolivar,900310
+ve,1990,Carabobo,1453232
+ve,1990,Cojedes,182066
+ve,1990,Delta Amacuro,84564
+ve,1990,Dependencias Federales,1123
+ve,1990,Distrito Capital,1823222
+ve,1990,Falcon,599185
+ve,1990,Guarico,488623
+ve,1990,Lara,1193161
+ve,1990,Merida,570215
+ve,1990,Miranda,1871093
+ve,1990,Monagas,470157
+ve,1990,Nueva Esparta,263748
+ve,1990,Portuguesa,576435
+ve,1990,Sucre,679595
+ve,1990,Tachira,807712
+ve,1990,Trujillo,493912
+ve,1990,Vargas,280439
+ve,1990,Yaracuy,384536
+ve,1990,Zulia,2235305
+ve,2001,Amazonas,70464
+ve,2001,Anzoategui,1222225
+ve,2001,Apure,377756
+ve,2001,Aragua,1449616
+ve,2001,Barinas,624508
+ve,2001,Bolivar,1214846
+ve,2001,Carabobo,1932168
+ve,2001,Cojedes,253105
+ve,2001,Delta Amacuro,97987
+ve,2001,Dependencias Federales,1651
+ve,2001,Distrito Capital,1836286
+ve,2001,Falcon,763188
+ve,2001,Guarico,627086
+ve,2001,Lara,1556415
+ve,2001,Merida,715268
+ve,2001,Miranda,2330872
+ve,2001,Monagas,712626
+ve,2001,Nueva Esparta,373851
+ve,2001,Portuguesa,725740
+ve,2001,Sucre,786483
+ve,2001,Tachira,992669
+ve,2001,Trujillo,608563
+ve,2001,Vargas,298109
+ve,2001,Yaracuy,499049
+ve,2001,Zulia,2983679
+ve,2011,Amazonas,146480
+ve,2011,Anzoategui,1469747
+ve,2011,Apure,459025
+ve,2011,Aragua,1630308
+ve,2011,Barinas,816264
+ve,2011,Bolivar,1410964
+ve,2011,Carabobo,2245744
+ve,2011,Cojedes,323165
+ve,2011,Delta Amacuro,167676
+ve,2011,Dependencias Federales,2155
+ve,2011,Distrito Capital,1943901
+ve,2011,Falcon,902847
+ve,2011,Guarico,747739
+ve,2011,Lara,1774867
+ve,2011,Merida,828592
+ve,2011,Miranda,2675165
+ve,2011,Monagas,905443
+ve,2011,Nueva Esparta,491610
+ve,2011,Portuguesa,876496
+ve,2011,Sucre,896291
+ve,2011,Tachira,1168908
+ve,2011,Trujillo,686367
+ve,2011,Vargas,352920
+ve,2011,Yaracuy,600852
+ve,2011,Zulia,3704404
+ve,2017,Amazonas,187900
+ve,2017,Anzoategui,1706100
+ve,2017,Apure,593700
+ve,2017,Aragua,1839100
+ve,2017,Barinas,913600
+ve,2017,Bolivar,1809300
+ve,2017,Carabobo,2494800
+ve,2017,Cojedes,357900
+ve,2017,Delta Amacuro,197200
+ve,2017,Dependencias Federales,2250
+ve,2017,Distrito Capital,2085800
+ve,2017,Falcon,1046400
+ve,2017,Guarico,905000
+ve,2017,Lara,2007200
+ve,2017,Merida,1007900
+ve,2017,Miranda,3228400
+ve,2017,Monagas,995600
+ve,2017,Nueva Esparta,584900
+ve,2017,Portuguesa,1024300
+ve,2017,Sucre,1059500
+ve,2017,Tachira,1255900
+ve,2017,Trujillo,840600
+ve,2017,Vargas,372700
+ve,2017,Yaracuy,716000
+ve,2017,Zulia,4199200

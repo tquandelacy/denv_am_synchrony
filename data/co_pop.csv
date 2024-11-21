@@ -1,0 +1,562 @@
+country,department,pop,year
+co,Amazonas,62065,2000
+co,Amazonas,63451,2001
+co,Amazonas,64701,2002
+co,Amazonas,65825,2003
+co,Amazonas,66827,2004
+co,Amazonas,67726,2005
+co,Amazonas,68613,2006
+co,Amazonas,69474,2007
+co,Amazonas,70313,2008
+co,Amazonas,71167,2009
+co,Amazonas,72017,2010
+co,Amazonas,72858,2011
+co,Amazonas,73699,2012
+co,Amazonas,74541,2013
+co,Amazonas,75388,2014
+co,Amazonas,76243,2015
+co,Amazonas,77088,2016
+co,Antioquia,5289912,2000
+co,Antioquia,5368957,2001
+co,Antioquia,5447841,2002
+co,Antioquia,5526457,2003
+co,Antioquia,5604712,2004
+co,Antioquia,5682310,2005
+co,Antioquia,5757973,2006
+co,Antioquia,5834865,2007
+co,Antioquia,5911399,2008
+co,Antioquia,5988552,2009
+co,Antioquia,6066003,2010
+co,Antioquia,6143809,2011
+co,Antioquia,6221817,2012
+co,Antioquia,6299990,2013
+co,Antioquia,6378132,2014
+co,Antioquia,6456299,2015
+co,Antioquia,6534857,2016
+co,Arauca,215979,2000
+co,Arauca,220976,2001
+co,Arauca,224831,2002
+co,Arauca,227738,2003
+co,Arauca,230019,2004
+co,Arauca,232129,2005
+co,Arauca,235252,2006
+co,Arauca,238361,2007
+co,Arauca,241446,2008
+co,Arauca,244507,2009
+co,Arauca,247541,2010
+co,Arauca,250569,2011
+co,Arauca,253565,2012
+co,Arauca,256527,2013
+co,Arauca,259447,2014
+co,Arauca,262315,2015
+co,Arauca,265190,2016
+co,Atlantico,2017388,2000
+co,Atlantico,2046777,2001
+co,Atlantico,2076366,2002
+co,Atlantico,2106173,2003
+co,Atlantico,2136070,2004
+co,Atlantico,2166020,2005
+co,Atlantico,2195776,2006
+co,Atlantico,2225481,2007
+co,Atlantico,2255143,2008
+co,Atlantico,2284841,2009
+co,Atlantico,2314460,2010
+co,Atlantico,2344077,2011
+co,Atlantico,2373550,2012
+co,Atlantico,2402910,2013
+co,Atlantico,2432003,2014
+co,Atlantico,2460863,2015
+co,Atlantico,2489514,2016
+co,Bogota,6302881,2000
+co,Bogota,6412400,2001
+co,Bogota,6520473,2002
+co,Bogota,6627568,2003
+co,Bogota,6734041,2004
+co,Bogota,6840116,2005
+co,Bogota,6945216,2006
+co,Bogota,7050228,2007
+co,Bogota,7155052,2008
+co,Bogota,7259597,2009
+co,Bogota,7363782,2010
+co,Bogota,7467804,2011
+co,Bogota,7571345,2012
+co,Bogota,7674366,2013
+co,Bogota,7776845,2014
+co,Bogota,7878783,2015
+co,Bogota,7980001,2016
+co,Bolivar,1792634,2000
+co,Bolivar,1810899,2001
+co,Bolivar,1828057,2002
+co,Bolivar,1844798,2003
+co,Bolivar,1861840,2004
+co,Bolivar,1879480,2005
+co,Bolivar,1898031,2006
+co,Bolivar,1917345,2007
+co,Bolivar,1937500,2008
+co,Bolivar,1958431,2009
+co,Bolivar,1980012,2010
+co,Bolivar,2002531,2011
+co,Bolivar,2025573,2012
+co,Bolivar,2049109,2013
+co,Bolivar,2073004,2014
+co,Bolivar,2097161,2015
+co,Bolivar,2121956,2016
+co,Boyaca,1234550,2000
+co,Boyaca,1239693,2001
+co,Boyaca,1244292,2002
+co,Boyaca,1248391,2003
+co,Boyaca,1252027,2004
+co,Boyaca,1255314,2005
+co,Boyaca,1258195,2006
+co,Boyaca,1260821,2007
+co,Boyaca,1263252,2008
+co,Boyaca,1265513,2009
+co,Boyaca,1267652,2010
+co,Boyaca,1269405,2011
+co,Boyaca,1271133,2012
+co,Boyaca,1272855,2013
+co,Boyaca,1274615,2014
+co,Boyaca,1276407,2015
+co,Boyaca,1278107,2016
+co,Caldas,959483,2000
+co,Caldas,961277,2001
+co,Caldas,962996,2002
+co,Caldas,964745,2003
+co,Caldas,966596,2004
+co,Caldas,968586,2005
+co,Caldas,970651,2006
+co,Caldas,972591,2007
+co,Caldas,974493,2008
+co,Caldas,976423,2009
+co,Caldas,978342,2010
+co,Caldas,980267,2011
+co,Caldas,982207,2012
+co,Caldas,984115,2013
+co,Caldas,986042,2014
+co,Caldas,987991,2015
+co,Caldas,989934,2016
+co,Caqueta,398736,2000
+co,Caqueta,402694,2001
+co,Caqueta,406734,2002
+co,Caqueta,410991,2003
+co,Caqueta,415586,2004
+co,Caqueta,420518,2005
+co,Caqueta,425748,2006
+co,Caqueta,431020,2007
+co,Caqueta,436485,2008
+co,Caqueta,442071,2009
+co,Caqueta,447767,2010
+co,Caqueta,453588,2011
+co,Caqueta,459515,2012
+co,Caqueta,465487,2013
+co,Caqueta,471541,2014
+co,Caqueta,477642,2015
+co,Caqueta,483846,2016
+co,Casanare,263956,2000
+co,Casanare,270318,2001
+co,Casanare,276648,2002
+co,Casanare,282913,2003
+co,Casanare,289117,2004
+co,Casanare,295276,2005
+co,Casanare,301371,2006
+co,Casanare,307441,2007
+co,Casanare,313431,2008
+co,Casanare,319515,2009
+co,Casanare,325621,2010
+co,Casanare,331734,2011
+co,Casanare,337886,2012
+co,Casanare,344040,2013
+co,Casanare,350239,2014
+co,Casanare,356479,2015
+co,Casanare,362721,2016
+co,Cauca,1215944,2000
+co,Cauca,1227525,2001
+co,Cauca,1238420,2002
+co,Cauca,1248825,2003
+co,Cauca,1258885,2004
+co,Cauca,1268830,2005
+co,Cauca,1278185,2006
+co,Cauca,1287746,2007
+co,Cauca,1297703,2008
+co,Cauca,1308183,2009
+co,Cauca,1319120,2010
+co,Cauca,1330756,2011
+co,Cauca,1342650,2012
+co,Cauca,1354733,2013
+co,Cauca,1366984,2014
+co,Cauca,1379169,2015
+co,Cauca,1391836,2016
+co,Cesar,844564,2000
+co,Cesar,855971,2001
+co,Cesar,867510,2002
+co,Cesar,879257,2003
+co,Cesar,891245,2004
+co,Cesar,903423,2005
+co,Cesar,915900,2006
+co,Cesar,928571,2007
+co,Cesar,941258,2008
+co,Cesar,953866,2009
+co,Cesar,966450,2010
+co,Cesar,979054,2011
+co,Cesar,991584,2012
+co,Cesar,1004058,2013
+co,Cesar,1016533,2014
+co,Cesar,1028890,2015
+co,Cesar,1041204,2016
+co,Choco,437343,2000
+co,Choco,437951,2001
+co,Choco,441828,2002
+co,Choco,445794,2003
+co,Choco,449877,2004
+co,Choco,454053,2005
+co,Choco,458317,2006
+co,Choco,462683,2007
+co,Choco,467074,2008
+co,Choco,471598,2009
+co,Choco,476149,2010
+co,Choco,480820,2011
+co,Choco,485543,2012
+co,Choco,490317,2013
+co,Choco,495151,2014
+co,Choco,500093,2015
+co,Choco,505016,2016
+co,Cordoba,1361658,2000
+co,Cordoba,1383011,2001
+co,Cordoba,1404175,2002
+co,Cordoba,1425297,2003
+co,Cordoba,1446552,2004
+co,Cordoba,1467906,2005
+co,Cordoba,1489745,2006
+co,Cordoba,1512031,2007
+co,Cordoba,1535414,2008
+co,Cordoba,1558833,2009
+co,Cordoba,1582784,2010
+co,Cordoba,1607519,2011
+co,Cordoba,1632637,2012
+co,Cordoba,1658067,2013
+co,Cordoba,1683782,2014
+co,Cordoba,1709644,2015
+co,Cordoba,1736170,2016
+co,Cundinamarca,2076798,2000
+co,Cundinamarca,2118567,2001
+co,Cundinamarca,2159796,2002
+co,Cundinamarca,2200405,2003
+co,Cundinamarca,2240428,2004
+co,Cundinamarca,2280158,2005
+co,Cundinamarca,2318959,2006
+co,Cundinamarca,2358115,2007
+co,Cundinamarca,2397511,2008
+co,Cundinamarca,2437151,2009
+co,Cundinamarca,2477036,2010
+co,Cundinamarca,2517215,2011
+co,Cundinamarca,2557623,2012
+co,Cundinamarca,2598245,2013
+co,Cundinamarca,2639059,2014
+co,Cundinamarca,2680041,2015
+co,Cundinamarca,2721368,2016
+co,Guainia,31640,2000
+co,Guainia,32490,2001
+co,Guainia,33261,2002
+co,Guainia,33968,2003
+co,Guainia,34614,2004
+co,Guainia,35230,2005
+co,Guainia,35846,2006
+co,Guainia,36464,2007
+co,Guainia,37084,2008
+co,Guainia,37705,2009
+co,Guainia,38328,2010
+co,Guainia,38949,2011
+co,Guainia,39574,2012
+co,Guainia,40203,2013
+co,Guainia,40839,2014
+co,Guainia,41482,2015
+co,Guainia,42123,2016
+co,Guaviare,89038,2000
+co,Guaviare,90360,2001
+co,Guaviare,91633,2002
+co,Guaviare,92889,2003
+co,Guaviare,94181,2004
+co,Guaviare,95551,2005
+co,Guaviare,97135,2006
+co,Guaviare,98688,2007
+co,Guaviare,100208,2008
+co,Guaviare,101759,2009
+co,Guaviare,103307,2010
+co,Guaviare,104846,2011
+co,Guaviare,106386,2012
+co,Guaviare,107934,2013
+co,Guaviare,109490,2014
+co,Guaviare,111060,2015
+co,Guaviare,112621,2016
+co,Huila,938244,2000
+co,Huila,953031,2001
+co,Huila,967773,2002
+co,Huila,982377,2003
+co,Huila,996874,2004
+co,Huila,1011405,2005
+co,Huila,1025738,2006
+co,Huila,1040086,2007
+co,Huila,1054423,2008
+co,Huila,1068844,2009
+co,Huila,1083189,2010
+co,Huila,1097584,2011
+co,Huila,1111947,2012
+co,Huila,1126316,2013
+co,Huila,1140539,2014
+co,Huila,1154777,2015
+co,Huila,1168869,2016
+co,La Guajira,548879,2000
+co,La Guajira,573624,2001
+co,La Guajira,599517,2002
+co,La Guajira,626358,2003
+co,La Guajira,653834,2004
+co,La Guajira,681534,2005
+co,La Guajira,708768,2006
+co,La Guajira,736050,2007
+co,La Guajira,763496,2008
+co,La Guajira,791083,2009
+co,La Guajira,818740,2010
+co,La Guajira,846641,2011
+co,La Guajira,874532,2012
+co,La Guajira,902367,2013
+co,La Guajira,930143,2014
+co,La Guajira,957797,2015
+co,La Guajira,985452,2016
+co,Magdalena,1118977,2000
+co,Magdalena,1120576,2001
+co,Magdalena,1121975,2002
+co,Magdalena,1131036,2003
+co,Magdalena,1140396,2004
+co,Magdalena,1150064,2005
+co,Magdalena,1159895,2006
+co,Magdalena,1169866,2007
+co,Magdalena,1180134,2008
+co,Magdalena,1190666,2009
+co,Magdalena,1201501,2010
+co,Magdalena,1212559,2011
+co,Magdalena,1223875,2012
+co,Magdalena,1235532,2013
+co,Magdalena,1247514,2014
+co,Magdalena,1259822,2015
+co,Magdalena,1272442,2016
+co,Meta,697478,2000
+co,Meta,714759,2001
+co,Meta,732007,2002
+co,Meta,749153,2003
+co,Meta,766214,2004
+co,Meta,783285,2005
+co,Meta,800581,2006
+co,Meta,817969,2007
+co,Meta,835526,2008
+co,Meta,853166,2009
+co,Meta,870921,2010
+co,Meta,888802,2011
+co,Meta,906805,2012
+co,Meta,924871,2013
+co,Meta,943072,2014
+co,Meta,961334,2015
+co,Meta,979710,2016
+co,Narino,1446493,2000
+co,Narino,1464826,2001
+co,Narino,1483416,2002
+co,Narino,1502757,2003
+co,Narino,1522205,2004
+co,Narino,1541692,2005
+co,Narino,1560872,2006
+co,Narino,1580109,2007
+co,Narino,1599646,2008
+co,Narino,1619461,2009
+co,Narino,1639560,2010
+co,Narino,1660062,2011
+co,Narino,1680795,2012
+co,Narino,1701782,2013
+co,Narino,1722945,2014
+co,Narino,1744228,2015
+co,Narino,1765906,2016
+co,Norte Santander,1189505,2000
+co,Norte Santander,1200639,2001
+co,Norte Santander,1211502,2002
+co,Norte Santander,1222289,2003
+co,Norte Santander,1233069,2004
+co,Norte Santander,1243861,2005
+co,Norte Santander,1254386,2006
+co,Norte Santander,1265056,2007
+co,Norte Santander,1275834,2008
+co,Norte Santander,1286830,2009
+co,Norte Santander,1297951,2010
+co,Norte Santander,1309265,2011
+co,Norte Santander,1320777,2012
+co,Norte Santander,1332378,2013
+co,Norte Santander,1344038,2014
+co,Norte Santander,1355787,2015
+co,Norte Santander,1367708,2016
+co,Putumayo,293525,2000
+co,Putumayo,297363,2001
+co,Putumayo,300865,2002
+co,Putumayo,304095,2003
+co,Putumayo,307144,2004
+co,Putumayo,310132,2005
+co,Putumayo,313126,2006
+co,Putumayo,316209,2007
+co,Putumayo,319390,2008
+co,Putumayo,322681,2009
+co,Putumayo,326093,2010
+co,Putumayo,329598,2011
+co,Putumayo,333247,2012
+co,Putumayo,337054,2013
+co,Putumayo,341034,2014
+co,Putumayo,345204,2015
+co,Putumayo,349537,2016
+co,Quindio,519805,2000
+co,Quindio,522634,2001
+co,Quindio,525498,2002
+co,Quindio,528413,2003
+co,Quindio,531424,2004
+co,Quindio,534506,2005
+co,Quindio,537530,2006
+co,Quindio,540533,2007
+co,Quindio,543579,2008
+co,Quindio,546593,2009
+co,Quindio,549662,2010
+co,Quindio,552755,2011
+co,Quindio,555836,2012
+co,Quindio,558969,2013
+co,Quindio,562114,2014
+co,Quindio,565310,2015
+co,Quindio,568506,2016
+co,Risaralda,869888,2000
+co,Risaralda,875120,2001
+co,Risaralda,880472,2002
+co,Risaralda,885964,2003
+co,Risaralda,891636,2004
+co,Risaralda,897413,2005
+co,Risaralda,903052,2006
+co,Risaralda,908644,2007
+co,Risaralda,914171,2008
+co,Risaralda,919641,2009
+co,Risaralda,925117,2010
+co,Risaralda,930518,2011
+co,Risaralda,935910,2012
+co,Risaralda,941275,2013
+co,Risaralda,946632,2014
+co,Risaralda,951953,2015
+co,Risaralda,957254,2016
+co,Arch San Andres-Prov-Sta Catalina,67672,2000
+co,Arch San Andres-Prov-Sta Catalina,68177,2001
+co,Arch San Andres-Prov-Sta Catalina,68717,2002
+co,Arch San Andres-Prov-Sta Catalina,69300,2003
+co,Arch San Andres-Prov-Sta Catalina,69920,2004
+co,Arch San Andres-Prov-Sta Catalina,70554,2005
+co,Arch San Andres-Prov-Sta Catalina,71075,2006
+co,Arch San Andres-Prov-Sta Catalina,71613,2007
+co,Arch San Andres-Prov-Sta Catalina,72167,2008
+co,Arch San Andres-Prov-Sta Catalina,72735,2009
+co,Arch San Andres-Prov-Sta Catalina,73320,2010
+co,Arch San Andres-Prov-Sta Catalina,73925,2011
+co,Arch San Andres-Prov-Sta Catalina,74541,2012
+co,Arch San Andres-Prov-Sta Catalina,75167,2013
+co,Arch San Andres-Prov-Sta Catalina,75801,2014
+co,Arch San Andres-Prov-Sta Catalina,76442,2015
+co,Arch San Andres-Prov-Sta Catalina,77101,2016
+co,Santander,1189505,2000
+co,Santander,1200639,2001
+co,Santander,1211502,2002
+co,Santander,1222289,2003
+co,Santander,1233069,2004
+co,Santander,1243861,2005
+co,Santander,1968351,2006
+co,Santander,1978976,2007
+co,Santander,1989514,2008
+co,Santander,1999999,2009
+co,Santander,2010393,2010
+co,Santander,2020604,2011
+co,Santander,2030775,2012
+co,Santander,2040932,2013
+co,Santander,2051022,2014
+co,Santander,2061079,2015
+co,Santander,2071016,2016
+co,Sucre,734647,2000
+co,Sucre,742217,2001
+co,Sucre,749636,2002
+co,Sucre,757033,2003
+co,Sucre,764503,2004
+co,Sucre,772042,2005
+co,Sucre,779515,2006
+co,Sucre,787153,2007
+co,Sucre,794914,2008
+co,Sucre,802736,2009
+co,Sucre,810664,2010
+co,Sucre,818689,2011
+co,Sucre,826780,2012
+co,Sucre,834937,2013
+co,Sucre,843202,2014
+co,Sucre,851515,2015
+co,Sucre,859913,2016
+co,Tolima,1336721,2000
+co,Tolima,1342648,2001
+co,Tolima,1348498,2002
+co,Tolima,1354239,2003
+co,Tolima,1359765,2004
+co,Tolima,1365082,2005
+co,Tolima,1369841,2006
+co,Tolima,1374437,2007
+co,Tolima,1378903,2008
+co,Tolima,1383304,2009
+co,Tolima,1387621,2010
+co,Tolima,1391876,2011
+co,Tolima,1396038,2012
+co,Tolima,1400140,2013
+co,Tolima,1404262,2014
+co,Tolima,1408272,2015
+co,Tolima,1412220,2016
+co,Valle del Cauca,3949031,2000
+co,Valle del Cauca,3990355,2001
+co,Valle del Cauca,4032191,2002
+co,Valle del Cauca,4074590,2003
+co,Valle del Cauca,4117760,2004
+co,Valle del Cauca,4161470,2005
+co,Valle del Cauca,4205228,2006
+co,Valle del Cauca,4249220,2007
+co,Valle del Cauca,4293541,2008
+co,Valle del Cauca,4338216,2009
+co,Valle del Cauca,4383277,2010
+co,Valle del Cauca,4428675,2011
+co,Valle del Cauca,4474369,2012
+co,Valle del Cauca,4520480,2013
+co,Valle del Cauca,4566875,2014
+co,Valle del Cauca,4613684,2015
+co,Valle del Cauca,4660741,2016
+co,Vaupes,36151,2000
+co,Vaupes,36905,2001
+co,Vaupes,37602,2002
+co,Vaupes,38230,2003
+co,Vaupes,38787,2004
+co,Vaupes,39279,2005
+co,Vaupes,39741,2006
+co,Vaupes,40198,2007
+co,Vaupes,40649,2008
+co,Vaupes,41094,2009
+co,Vaupes,41534,2010
+co,Vaupes,41965,2011
+co,Vaupes,42392,2012
+co,Vaupes,42817,2013
+co,Vaupes,43240,2014
+co,Vaupes,43665,2015
+co,Vaupes,44079,2016
+co,Vichada,48901,2000
+co,Vichada,50405,2001
+co,Vichada,51821,2002
+co,Vichada,53171,2003
+co,Vichada,54504,2004
+co,Vichada,55872,2005
+co,Vichada,57344,2006
+co,Vichada,58885,2007
+co,Vichada,60494,2008
+co,Vichada,62071,2009
+co,Vichada,63670,2010
+co,Vichada,65282,2011
+co,Vichada,66917,2012
+co,Vichada,68575,2013
+co,Vichada,70260,2014
+co,Vichada,71974,2015
+co,Vichada,73702,2016

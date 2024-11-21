@@ -1,0 +1,495 @@
+country,department,pop,year
+pe,Amazonas,385241,2000
+pe,Ancash,1049379,2000
+pe,Apurimac,419585,2000
+pe,Arequipa,1084725,2000
+pe,Ayacucho,571739,2000
+pe,Cajamarca,1404767,2000
+pe,Callao,788961,2000
+pe,Cusco,1173757,2000
+pe,Huancavelica,435491,2000
+pe,Huanuco,747309,2000
+pe,Ica,657255,2000
+pe,Junin,1198307,2000
+pe,La Libertad,1519967,2000
+pe,Lambayeque,1084317,2000
+pe,Lima,7767873,2000
+pe,Lima Province,NA,2000
+pe,Loreto,847288,2000
+pe,Madre de Dios,89018,2000
+pe,Moquegua,152129,2000
+pe,Pasco,267286,2000
+pe,Piura,1609027,2000
+pe,Puno,1223955,2000
+pe,San Martin,662052,2000
+pe,Tacna,269033,2000
+pe,Tumbes,184866,2000
+pe,Ucayali,390261,2000
+pe,Amazonas,388720,2001
+pe,Ancash,1056484,2001
+pe,Apurimac,422361,2001
+pe,Arequipa,1100094,2001
+pe,Ayacucho,578465,2001
+pe,Cajamarca,1416728,2001
+pe,Callao,805478,2001
+pe,Cusco,1185457,2001
+pe,Huancavelica,439405,2001
+pe,Huanuco,756187,2001
+pe,Ica,666976,2001
+pe,Junin,1209950,2001
+pe,La Libertad,1544794,2001
+pe,Lambayeque,1099245,2001
+pe,Lima,7913690,2001
+pe,Lima Province,NA,2001
+pe,Loreto,862190,2001
+pe,Madre de Dios,92185,2001
+pe,Moquegua,154339,2001
+pe,Pasco,269807,2001
+pe,Piura,1628074,2001
+pe,Puno,1238294,2001
+pe,San Martin,675190,2001
+pe,Tacna,274878,2001
+pe,Tumbes,188601,2001
+pe,Ucayali,213196,2001
+pe,Amazonas,391938,2002
+pe,Ancash,1063510,2002
+pe,Apurimac,425104,2002
+pe,Arequipa,1114590,2002
+pe,Ayacucho,586290,2002
+pe,Cajamarca,1427948,2002
+pe,Callao,821283,2002
+pe,Cusco,1196650,2002
+pe,Huancavelica,443404,2002
+pe,Huanuco,764559,2002
+pe,Ica,676667,2002
+pe,Junin,1221386,2002
+pe,La Libertad,1568885,2002
+pe,Lambayeque,1113080,2002
+pe,Lima,8057558,2002
+pe,Lima Province,NA,2002
+pe,Loreto,876497,2002
+pe,Madre de Dios,95420,2002
+pe,Moquegua,156420,2002
+pe,Pasco,272355,2002
+pe,Piura,1645795,2002
+pe,Puno,1252654,2002
+pe,San Martin,687427,2002
+pe,Tacna,280596,2002
+pe,Tumbes,192336,2002
+pe,Ucayali,407027,2002
+pe,Amazonas,394959,2003
+pe,Ancash,1070450,2003
+pe,Apurimac,427826,2003
+pe,Arequipa,1128454,2003
+pe,Ayacucho,594733,2003
+pe,Cajamarca,1438547,2003
+pe,Callao,836622,2003
+pe,Cusco,1207423,2003
+pe,Huancavelica,447455,2003
+pe,Huanuco,772600,2003
+pe,Ica,68254,2003
+pe,Junin,1232569,2003
+pe,La Libertad,1592392,2003
+pe,Lambayeque,1126116,2003
+pe,Lima,819172,2003
+pe,Lima Province,NA,2003
+pe,Loreto,890388,2003
+pe,Madre de Dios,98690,2003
+pe,Moquegua,158407,2003
+pe,Pasco,274919,2003
+pe,Piura,1662570,2003
+pe,Puno,1266832,2003
+pe,San Martin,699146,2003
+pe,Tacna,286166,2003
+pe,Tumbes,196063,2003
+pe,Ucayali,414704,2003
+pe,Amazonas,397848,2004
+pe,Ancash,1077295,2004
+pe,Apurimac,430539,2004
+pe,Arequipa,1141933,2004
+pe,Ayacucho,603311,2004
+pe,Cajamarca,1448651,2004
+pe,Callao,851739,2004
+pe,Cusco,127862,2004
+pe,Huancavelica,45159,2004
+pe,Huanuco,780483,2004
+pe,Ica,695663,2004
+pe,Junin,1243455,2004
+pe,La Libertad,1615464,2004
+pe,Lambayeque,1138651,2004
+pe,Lima,8338208,2004
+pe,Lima Province,NA,2004
+pe,Loreto,904035,2004
+pe,Madre de Dios,101962,2004
+pe,Moquegua,160334,2004
+pe,Pasco,277491,2004
+pe,Piura,1678777,2004
+pe,Puno,1280629,2004
+pe,San Martin,710732,2004
+pe,Tacna,291563,2004
+pe,Tumbes,199771,2004
+pe,Ucayali,422158,2004
+pe,Amazonas,400668,2005
+pe,Ancash,1084038,2005
+pe,Apurimac,433256,2005
+pe,Arequipa,1155267,2005
+pe,Ayacucho,611542,2005
+pe,Cajamarca,1458378,2005
+pe,Callao,866877,2005
+pe,Cusco,1228055,2005
+pe,Huancavelica,455562,2005
+pe,Huanuco,788380,2005
+pe,Ica,704822,2005
+pe,Junin,1253996,2005
+pe,La Libertad,1638251,2005
+pe,Lambayeque,1150982,2005
+pe,Lima,8474342,2005
+pe,Lima Province,NA,2005
+pe,Loreto,917618,2005
+pe,Madre de Dios,105205,2005
+pe,Moquegua,162237,2005
+pe,Pasco,280061,2005
+pe,Piura,1694797,2005
+pe,Puno,1293843,2005
+pe,San Martin,722567,2005
+pe,Tacna,296767,2005
+pe,Tumbes,203452,2005
+pe,Ucayali,429576,2006
+pe,Amazonas,403428,2006
+pe,Ancash,1090637,2006
+pe,Apurimac,436000,2006
+pe,Arequipa,1168238,2006
+pe,Ayacucho,619437,2006
+pe,Cajamarca,1467758,2006
+pe,Callao,882066,2006
+pe,Cusco,1237955,2006
+pe,Huancavelica,459598,2006
+pe,Huanuco,796330,2006
+pe,Ica,713692,2006
+pe,Junin,1264050,2006
+pe,La Libertad,1660535,2006
+pe,Lambayeque,1163003,2006
+pe,Lima,8605145,2006
+pe,Lima Province,NA,2006
+pe,Loreto,931218,2006
+pe,Madre de Dios,108412,2006
+pe,Moquegua,164090,2006
+pe,Pasco,282660,2006
+pe,Piura,1710456,2006
+pe,Puno,1306226,2006
+pe,San Martin,734689,2006
+pe,Tacna,301728,2006
+pe,Tumbes,207125,2006
+pe,Ucayali,436967,2006
+pe,Amazonas,406087,2007
+pe,Ancash,1097098,2007
+pe,Apurimac,438761,2007
+pe,Arequipa,1180683,2007
+pe,Ayacucho,627317,2007
+pe,Cajamarca,476708,2007
+pe,Callao,897144,2007
+pe,Cusco,1247503,2007
+pe,Huancavelica,463651,2007
+pe,Huanuco,804220,2007
+pe,Ica,722321,2007
+pe,Junin,1273648,2007
+pe,La Libertad,1682213,2007
+pe,Lambayeque,1174519,2007
+pe,Lima,8730820,2007
+pe,Lima Province,NA,2007
+pe,Loreto,944717,2007
+pe,Madre de Dios,111604,2007
+pe,Moquegua,165871,2007
+pe,Pasco,285291,2007
+pe,Piura,1725502,2007
+pe,Puno,317911,2007
+pe,San Martin,746844,2007
+pe,Tacna,306461,2007
+pe,Tumbes,210798,2007
+pe,Ucayali,444209,2007
+pe,Amazonas,408629,2008
+pe,Ancash,1103481,2008
+pe,Apurimac,441507,2008
+pe,Arequipa,1192932,2008
+pe,Ayacucho,635167,2008
+pe,Cajamarca,1485188,2008
+pe,Callao,912065,2008
+pe,Cusco,1256770,2008
+pe,Huancavelica,467700,2008
+pe,Huanuco,811989,2008
+pe,Ica,730767,2008
+pe,Junin,1283003,2008
+pe,La Libertad,1703617,2008
+pe,Lambayeque,1185684,2008
+pe,Lima,8855022,2008
+pe,Lima Province,NA,2008
+pe,Loreto,957992,2008
+pe,Madre de Dios,114791,2008
+pe,Moquegua,167616,2008
+pe,Pasco,287913,2008
+pe,Piura,1740194,2008
+pe,Puno,1329272,2008
+pe,San Martin,758974,2008
+pe,Tacna,311038,2008
+pe,Tumbes,214439,2008
+pe,Ucayali,451284,2008
+pe,Amazonas,411043,2009
+pe,Ancash,1109849,2009
+pe,Apurimac,444202,2009
+pe,Arequipa,1205317,2009
+pe,Ayacucho,642972,2009
+pe,Cajamarca,1493159,2009
+pe,Callao,926788,2009
+pe,Cusco,1265827,2009
+pe,Huancavelica,471720,2009
+pe,Huanuco,819578,2009
+pe,Ica,739087,2009
+pe,Junin,1292330,2009
+pe,La Libertad,1725075,2009
+pe,Lambayeque,1196655,2009
+pe,Lima,8981440,2009
+pe,Lima Province,NA,2009
+pe,Loreto,970918,2009
+pe,Madre de Dios,117981,2009
+pe,Moquegua,169365,2009
+pe,Pasco,290483,2009
+pe,Piura,1754791,2009
+pe,Puno,1340684,2009
+pe,San Martin,771021,2009
+pe,Tacna,315534,2009
+pe,Tumbes,218017,2009
+pe,Ucayali,458177,2009
+pe,Amazonas,413314,2010
+pe,Ancash,1116265,2010
+pe,Apurimac,433256,2010
+pe,Arequipa,1155267,2010
+pe,Ayacucho,611542,2010
+pe,Cajamarca,1458379,2010
+pe,Callao,866877,2010
+pe,Cusco,1228055,2010
+pe,Huancavelica,455562,2010
+pe,Huanuco,788380,2010
+pe,Ica,704822,2010
+pe,Junin,1253996,2010
+pe,La Libertad,1638251,2010
+pe,Lambayeque,1150982,2010
+pe,Lima,8474342,2010
+pe,Lima Province,NA,2010
+pe,Loreto,917618,2010
+pe,Madre de Dios,105205,2010
+pe,Moquegua,162237,2010
+pe,Pasco,280061,2010
+pe,Piura,1694797,2010
+pe,Puno,1293843,2010
+pe,San Martin,722567,2010
+pe,Tacna,296767,2010
+pe,Tumbes,203452,2010
+pe,Ucayali,429576,2010
+pe,Amazonas,415466,2011
+pe,Ancash,1122792,2011
+pe,Apurimac,449365,2011
+pe,Arequipa,1231553,2011
+pe,Ayacucho,658400,2011
+pe,Cajamarca,1507486,2011
+pe,Callao,955385,2011
+pe,Cusco,1283540,2011
+pe,Huancavelica,479641,2011
+pe,Huanuco,834054,2011
+pe,Ica,755508,2011
+pe,Junin,1311584,2011
+pe,La Libertad,1769181,2011
+pe,Lambayeque,1218492,2011
+pe,Lima,9252401,2011
+pe,Lima Province,NA,2011
+pe,Loreto,995355,2011
+pe,Madre de Dios,124404,2011
+pe,Moquegua,172995,2011
+pe,Pasco,295315,2011
+pe,Piura,1784551,2011
+pe,Puno,1364752,2011
+pe,San Martin,794730,2011
+pe,Tacna,324498,2011
+pe,Tumbes,224895,2011
+pe,Ucayali,471351,2011
+pe,Amazonas,417508,2012
+pe,Ancash,1129391,2012
+pe,Apurimac,451881,2012
+pe,Arequipa,1245251,2012
+pe,Ayacucho,666029,2012
+pe,Cajamarca,1513892,2012
+pe,Callao,969170,2012
+pe,Cusco,1292170,2012
+pe,Huancavelica,483580,2012
+pe,Huanuco,840984,2012
+pe,Ica,763558,2012
+pe,Junin,1321407,2012
+pe,La Libertad,1791659,2012
+pe,Lambayeque,1229260,2012
+pe,Lima,9395149,2012
+pe,Lima Province,NA,2012
+pe,Loreto,1006953,2012
+pe,Madre de Dios,127639,2012
+pe,Moquegua,174859,2012
+pe,Pasco,297591,2012
+pe,Piura,1799607,2012
+pe,Puno,1377122,2012
+pe,San Martin,806452,2012
+pe,Tacna,328915,2012
+pe,Tumbes,228227,2012
+pe,Ucayali,477616,2012
+pe,Amazonas,419400,2013
+pe,Ancash,113600,2013
+pe,Apurimac,454300,2013
+pe,Arequipa,1259200,2013
+pe,Ayacucho,673600,2013
+pe,Cajamarca,1519800,2013
+pe,Callao,982800,2013
+pe,Cusco,1300600,2013
+pe,Huancavelica,487500,2013
+pe,Huanuco,847700,2013
+pe,Ica,771500,2013
+pe,Junin,1331300,2013
+pe,La Libertad,1814300,2013
+pe,Lambayeque,1239900,2013
+pe,Lima,NA,2013
+pe,Lima Province,923700,2013
+pe,Loreto,1018200,2013
+pe,Madre de Dios,130900,2013
+pe,Moquegua,176700,2013
+pe,Pasco,299800,2013
+pe,Piura,1841600,2013
+pe,Puno,1389700,2013
+pe,San Martin,818100,2013
+pe,Tacna,333300,2013
+pe,Tumbes,231500,2013
+pe,Ucayali,483700,2013
+pe,Amazonas,421122,2014
+pe,Ancash,1142409,2014
+pe,Apurimac,456652,2014
+pe,Arequipa,1273180,2014
+pe,Ayacucho,681149,2014
+pe,Cajamarca,1525064,2014
+pe,Callao,996455,2014
+pe,Cusco,1308806,2014
+pe,Huancavelica,491278,2014
+pe,Huanuco,854234,2014
+pe,Ica,779392,2014
+pe,Junin,1321407,2014
+pe,La Libertad,1791659,2014
+pe,Lambayeque,1229260,2014
+pe,Lima,9395149,2014
+pe,Lima Province,NA,2014
+pe,Loreto,1006953,2014
+pe,Madre de Dios,127639,2014
+pe,Moquegua,174859,2014
+pe,Pasco,297591,2014
+pe,Piura,1799607,2014
+pe,Puno,1377607,2014
+pe,San Martin,806452,2014
+pe,Tacna,328915,2014
+pe,Tumbes,228227,2014
+pe,Ucayali,477616,2014
+pe,Amazonas,422629,2015
+pe,Ancash,1148634,2015
+pe,Apurimac,458830,2015
+pe,Arequipa,1287205,2015
+pe,Ayacucho,688657,2015
+pe,Cajamarca,1529755,2015
+pe,Callao,1010315,2015
+pe,Cusco,1316729,2015
+pe,Huancavelica,494963,2015
+pe,Huanuco,860537,2015
+pe,Ica,787170,2015
+pe,Junin,1350783,2015
+pe,La Libertad,1859640,2015
+pe,Lambayeque,1260650,2015
+pe,Lima,9838251,2015
+pe,Lima Province,NA,2015
+pe,Loreto,1039372,2015
+pe,Madre de Dios,137316,2015
+pe,Moquegua,180477,2015
+pe,Pasco,304158,2015
+pe,Piura,1844129,2015
+pe,Puno,1415608,2015
+pe,San Martin,840790,2015
+pe,Tacna,341838,2015
+pe,Tumbes,237685,2015
+pe,Ucayali,495522,2015
+pe,Amazonas,432898,2016
+pe,Ancash,1154639,2016
+pe,Apurimac,460868,2016
+pe,Arequipa,1301298,2016
+pe,Ayacucho,696152,2016
+pe,Cajamarca,1533783,2016
+pe,Callao,1028144,2016
+pe,Cusco,1324371,2016
+pe,Huancavelica,498556,2016
+pe,Huanuco,867227,2016
+pe,Ica,794919,2016
+pe,Junin,1360382,2016
+pe,La Libertad,1882405,2016
+pe,Lambayeque,1270794,2016
+pe,Lima,9985664,2016
+pe,Lima Province,NA,2016
+pe,Loreto,1049364,2016
+pe,Madre de Dios,140508,2016
+pe,Moquegua,182333,2016
+pe,Pasco,306576,2016
+pe,Piura,1858617,2016
+pe,Puno,1429098,2016
+pe,San Martin,851883,2016
+pe,Tacna,346013,2016
+pe,Tumbes,240590,2016
+pe,Ucayali,500543,2016
+pe,Amazonas,425000,2017
+pe,Ancash,1160500,2017
+pe,Apurimac,462800,2017
+pe,Arequipa,1315500,2017
+pe,Ayacucho,703700,2017
+pe,Cajamarca,1537200,2017
+pe,Callao,433000,2017
+pe,Cusco,1331800,2017
+pe,Huancavelica,502100,2017
+pe,Huanuco,872500,2017
+pe,Ica,802600,2017
+pe,Junin,1370200,2017
+pe,La Libertad,1905300,2017
+pe,Lambayeque,1280700,2017
+pe,Lima,11181700,2017
+pe,Lima Province,NA,2017
+pe,Loreto,1059000,2017
+pe,Madre de Dios,143700,2017
+pe,Moquegua,184200,2017
+pe,Pasco,308500,2017
+pe,Piura,1873000,2017
+pe,Puno,1442900,2017
+pe,San Martin,862800,2017
+pe,Tacna,350100,2017
+pe,Tumbes,243300,2017
+pe,Ucayali,506900,2017
+pe,Amazonas,425000,2018
+pe,Ancash,1160500,2018
+pe,Apurimac,462800,2018
+pe,Arequipa,1315500,2018
+pe,Ayacucho,703700,2018
+pe,Cajamarca,1537200,2018
+pe,Callao,433000,2018
+pe,Cusco,1331800,2018
+pe,Huancavelica,502100,2018
+pe,Huanuco,872500,2018
+pe,Ica,802600,2018
+pe,Junin,1370200,2018
+pe,La Libertad,1905300,2018
+pe,Lambayeque,1280700,2018
+pe,Lima,11181700,2018
+pe,Lima Province,NA,2018
+pe,Loreto,1059000,2018
+pe,Madre de Dios,143700,2018
+pe,Moquegua,184200,2018
+pe,Pasco,308500,2018
+pe,Piura,1873000,2018
+pe,Puno,1442900,2018
+pe,San Martin,862800,2018
+pe,Tacna,350100,2018
+pe,Tumbes,243300,2018
+pe,Ucayali,506900,2018

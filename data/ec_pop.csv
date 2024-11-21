@@ -1,0 +1,265 @@
+country,department,pop,year
+ec,azuay,,1998
+ec,bolivar,,1998
+ec,canar,,1998
+ec,carchi,,1998
+ec,chimborazo,,1998
+ec,cotopaxi,,1998
+ec,el oro,,1998
+ec,esmeraldas,,1998
+ec,galapagos,,1998
+ec,guayas,,1998
+ec,imbabura,,1998
+ec,loja,,1998
+ec,los rios,,1998
+ec,manabi,,1998
+ec,morona santiago,,1998
+ec,napo,,1998
+ec,orellana,,1998
+ec,pastaza,,1998
+ec,pichincha,,1998
+ec,santa elena,,1998
+ec,santo domingo,,1998
+ec,sucumbios,,1998
+ec,tungurahua,,1998
+ec,zamora chinchipe,,1998
+ec,azuay,739520,2010
+ec,bolivar,191631,2010
+ec,canar,235814,2010
+ec,carchi,171746,2010
+ec,chimborazo,476255,2010
+ec,cotopaxi,424663,2010
+ec,el oro,624860,2010
+ec,esmeraldas,551712,2010
+ec,galapagos,25884,2010
+ec,guayas,3778720,2010
+ec,imbabura,413657,2010
+ec,loja,467671,2010
+ec,los rios,805514,2010
+ec,manabi,1420348,2010
+ec,morona santiago,153163,2010
+ec,napo,106953,2010
+ec,orellana,137786,2010
+ec,pastaza,86470,2010
+ec,pichincha,2667953,2010
+ec,santa elena,318247,2010
+ec,santo domingo,379378,2010
+ec,sucumbios,181287,2010
+ec,tungurahua,524048,2010
+ec,zamora chinchipe,95194,2010
+ec,azuay,753493,2011
+ec,bolivar,193689,2011
+ec,canar,240248,2011
+ec,carchi,173410,2011
+ec,cotopaxi,431243,2011
+ec,chimborazo,481498,2011
+ec,imbabura,419919,2011
+ec,loja,473331,2011
+ec,pichincha,2723509,2011
+ec,tungurahua,530655,2011
+ec,santo domingo,387229,2011
+ec,el oro,634481,2011
+ec,esmeraldas,561605,2011
+ec,guayas,3840319,2011
+ec,los rios,817676,2011
+ec,manabi,1436259,2011
+ec,santa elena,326215,2011
+ec,morona santiago,157551,2011
+ec,napo,109514,2011
+ec,pastaza,89053,2011
+ec,zamora chinchipe,97676,2011
+ec,sucumbios,186072,2011
+ec,orellana,140663,2011
+ec,galapagos,26576,2011
+ec,azuay,767695,2012
+ec,bolivar,195719,2012
+ec,canar,244754,2012
+ec,carchi,175050,2012
+ec,cotopaxi,437826,2012
+ec,chimborazo,486680,2012
+ec,imbabura,426223,2012
+ec,loja,478964,2012
+ec,pichincha,2779370,2012
+ec,tungurahua,537351,2012
+ec,santo domingo,395133,2012
+ec,el oro,644000,2012
+ec,esmeraldas,571382,2012
+ec,guayas,3901981,2012
+ec,los rios,829779,2012
+ec,manabi,1451873,2012
+ec,santa elena,334276,2012
+ec,morona santiago,161948,2012
+ec,napo,112151,2012
+ec,pastaza,91699,2012
+ec,zamora chinchipe,100170,2012
+ec,sucumbios,190896,2012
+ec,orellana,143421,2012
+ec,galapagos,27284,2012
+ec,azuay,781919,2013
+ec,bolivar,197708,2013
+ec,canar,249297,2013
+ec,carchi,176662,2013
+ec,cotopaxi,444398,2013
+ec,chimborazo,491753,2013
+ec,imbabura,432543,2013
+ec,loja,484529,2013
+ec,pichincha,2835373,2013
+ec,tungurahua,544090,2013
+ec,santo domingo,403063,2013
+ec,el oro,653400,2013
+ec,esmeraldas,581010,2013
+ec,guayas,3963541,2013
+ec,los rios,841767,2013
+ec,manabi,1467111,2013
+ec,santa elena,342408,2013
+ec,morona santiago,166345,2013
+ec,napo,114805,2013
+ec,pastaza,94373,2013
+ec,zamora chinchipe,102684,2013
+ec,sucumbios,195759,2013
+ec,orellana,146058,2013
+ec,galapagos,28000,2013
+ec,azuay,796169,2014
+ec,bolivar,199646,2014
+ec,canar,253863,2014
+ec,carchi,178228,2014
+ec,cotopaxi,450921,2014
+ec,chimborazo,496735,2014
+ec,imbabura,438868,2014
+ec,loja,490039,2014
+ec,pichincha,2891472,2014
+ec,tungurahua,550832,2014
+ec,santo domingo,411009,2014
+ec,el oro,662671,2014
+ec,esmeraldas,590483,2014
+ec,guayas,4024929,2014
+ec,los rios,853622,2014
+ec,manabi,1481940,2014
+ec,santa elena,350624,2014
+ec,morona santiago,170722,2014
+ec,napo,117465,2014
+ec,pastaza,97093,2014
+ec,zamora chinchipe,105213,2014
+ec,sucumbios,200656,2014
+ec,orellana,148573,2014
+ec,galapagos,28726,2014
+ec,azuay,810412,2015
+ec,bolivar,201533,2015
+ec,canar,258450,2015
+ec,carchi,179768,2015
+ec,cotopaxi,457404,2015
+ec,chimborazo,501584,2015
+ec,imbabura,445175,2015
+ec,loja,495464,2015
+ec,pichincha,2947627,2015
+ec,tungurahua,557563,2015
+ec,santo domingo,418957,2015
+ec,el oro,671817,2015
+ec,esmeraldas,599777,2015
+ec,guayas,4086089,2015
+ec,los rios,865340,2015
+ec,manabi,1496366,2015
+ec,santa elena,358896,2015
+ec,morona santiago,175074,2015
+ec,napo,120144,2015
+ec,pastaza,99855,2015
+ec,zamora chinchipe,107749,2015
+ec,sucumbios,205586,2015
+ec,orellana,150977,2015
+ec,galapagos,29453,2015
+ec,azuay,824646,2016
+ec,bolivar,203344,2016
+ec,canar,263048,2016
+ec,carchi,181265,2016
+ec,cotopaxi,463819,2016
+ec,chimborazo,506325,2016
+ec,imbabura,451476,2016
+ec,loja,500794,2016
+ec,pichincha,3003799,2016
+ec,tungurahua,564260,2016
+ec,santo domingo,426910,2016
+ec,el oro,680845,2016
+ec,esmeraldas,608906,2016
+ec,guayas,4146996,2016
+ec,los rios,876912,2016
+ec,manabi,1510375,2016
+ec,santa elena,367235,2016
+ec,morona santiago,179406,2016
+ec,napo,122838,2016
+ec,pastaza,102655,2016
+ec,zamora chinchipe,110296,2016
+ec,sucumbios,210532,2016
+ec,orellana,153269,2016
+ec,galapagos,30172,2016
+ec,azuay,838859,2017
+ec,bolivar,205094,2017
+ec,canar,267643,2017
+ec,carchi,182719,2017
+ec,cotopaxi,470167,2017
+ec,chimborazo,510935,2017
+ec,imbabura,457737,2017
+ec,loja,506035,2017
+ec,pichincha,3059971,2017
+ec,tungurahua,570933,2017
+ec,santo domingo,434849,2017
+ec,el oro,689760,2017
+ec,esmeraldas,617851,2017
+ec,guayas,4207610,2017
+ec,los rios,888351,2017
+ec,manabi,1523950,2017
+ec,santa elena,375646,2017
+ec,morona santiago,183728,2017
+ec,napo,125538,2017
+ec,pastaza,105494,2017
+ec,zamora chinchipe,112835,2017
+ec,sucumbios,215499,2017
+ec,orellana,155453,2017
+ec,galapagos,30890,2017
+ec,azuay,678746,2007
+ec,bolivar,180293,2007
+ec,canar,226021,2007
+ec,carchi,166116,2007
+ec,cotopaxi,400411,2007
+ec,chimborazo,443522,2007
+ec,imbabura,397704,2007
+ec,loja,434020,2007
+ec,pichincha,2683272,2007
+ec,tungurahua,501437,2007
+ec,santo domingo,322080,2007
+ec,el oro,608032,2007
+ec,esmeraldas,438576,2007
+ec,guayas,3617504,2007
+ec,los rios,742241,2007
+ec,manabi,1314445,2007
+ec,santa elena,121994,2007
+ec,morona santiago,131337,2007
+ec,napo,96029,2007
+ec,pastaza,75782,2007
+ec,zamora chinchipe,85571,2007
+ec,sucumbios,163447,2007
+ec,orellana,110782,2007
+ec,galapagos,22678,2007
+ec,azuay,599546,2001
+ec,bolivar,169370,2001
+ec,canar,206981,2001
+ec,carchi,152939,2001
+ec,chimborazo,403632,2001
+ec,cotopaxi,349540,2001
+ec,el oro,525763,2001
+ec,esmeraldas,385223,2001
+ec,galapagos,18640,2001
+ec,guayas,3309034,2001
+ec,imbabura,344044,2001
+ec,loja,404835,2001
+ec,los rios,650178,2001
+ec,manabi,1186025,2001
+ec,morona santiago,115412,2001
+ec,napo,79139,2001
+ec,orellana,86493,2001
+ec,pastaza,61779,2001
+ec,pichincha,2388817,2001
+ec,santa elena,NA,2001
+ec,santo domingo,NA,2001
+ec,sucumbios,128995,2001
+ec,tungurahua,441034,2001
+ec,zamora chinchipe,76601,2001

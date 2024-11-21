@@ -1,0 +1,289 @@
+country,department,pop,year
+mx,Aguascalientes,519439,1980
+mx,Baja California,1177886,1980
+mx,Baja California Sur,215139,1980
+mx,Campeche,420553,1980
+mx,Chiapas,2084717,1980
+mx,Chihuahua,2005477,1980
+mx,Coahuila,1557265,1980
+mx,Colima,346293,1980
+mx,Distrito Federal,8831079,1980
+mx,Durango,1182320,1980
+mx,Guanajuato,3006110,1980
+mx,Guerrero,2109513,1980
+mx,Hidalgo,1547493,1980
+mx,Jalisco,4371998,1980
+mx,Mexico,7564335,1980
+mx,Michoacan,2868824,1980
+mx,Morelos,947089,1980
+mx,Nayarit,726120,1980
+mx,Nuevo Leon,2513044,1980
+mx,Oaxaca,2369076,1980
+mx,Puebla,3347685,1980
+mx,Queretaro,739605,1980
+mx,Quintana Roo,225985,1980
+mx,San Luis Potosi,1673893,1980
+mx,Sinaloa,1849879,1980
+mx,Sonora,1513731,1980
+mx,Tabasco,1062961,1980
+mx,Tamaulipas,1924484,1980
+mx,Tlaxcala,556597,1980
+mx,Veracruz,5387680,1980
+mx,Yucatan,1063733,1980
+mx,Zacatecas,1136830,1980
+mx,Aguascalientes,629600,1985
+mx,Baja California,1328700,1985
+mx,Baja California Sur,279300,1985
+mx,Campeche,533300,1985
+mx,Chiapas,2392800,1985
+mx,Chihuahua,2188800,1985
+mx,Coahuila,1806700,1985
+mx,Colima,398300,1985
+mx,Distrito Federal,9931400,1985
+mx,Durango,1328100,1985
+mx,Guanajuato,3389600,1985
+mx,Guerrero,2423700,1985
+mx,Hidalgo,1745400,1985
+mx,Jalisco,4972400,1985
+mx,Mexico,10176500,1985
+mx,Michoacan,3233000,1985
+mx,Morelos,1160600,1985
+mx,Nayarit,813100,1985
+mx,Nuevo Leon,2969200,1985
+mx,Oaxaca,2587800,1985
+mx,Puebla,3850500,1985
+mx,Queretaro,882700,1985
+mx,Quintana Roo,330800,1985
+mx,San Luis Potosi,1916200,1985
+mx,Sinaloa,2198800,1985
+mx,Sonora,1716300,1985
+mx,Tabasco,1228800,1985
+mx,Tamaulipas,2176900,1985
+mx,Tlaxcala,633100,1985
+mx,Veracruz,6258900,1985
+mx,Yucatan,1230100,1985
+mx,Zacatecas,1226900,1985
+mx,Aguascalientes,825019,1990
+mx,Baja California,1773212,1990
+mx,Baja California Sur,339320,1990
+mx,Campeche,553121,1990
+mx,Chiapas,3316247,1990
+mx,Chihuahua,2409760,1990
+mx,Coahuila,2005787,1990
+mx,Colima,473560,1990
+mx,Distrito Federal,8698060,1990
+mx,Durango,1390933,1990
+mx,Guanajuato,4664159,1990
+mx,Guerrero,3025294,1990
+mx,Hidalgo,2209696,1990
+mx,Jalisco,5772056,1990
+mx,Mexico,10088952,1990
+mx,Michoacan,3985669,1990
+mx,Morelos,1399731,1990
+mx,Nayarit,852578,1990
+mx,Nuevo Leon,3237247,1990
+mx,Oaxaca,3364509,1990
+mx,Puebla,4498052,1990
+mx,Queretaro,1246199,1990
+mx,Quintana Roo,574792,1990
+mx,San Luis Potosi,2204727,1990
+mx,Sinaloa,2216590,1990
+mx,Sonora,1859174,1990
+mx,Tabasco,1637878,1990
+mx,Tamaulipas,2254171,1990
+mx,Tlaxcala,817793,1990
+mx,Veracruz,6619737,1990
+mx,Yucatan,1445022,1990
+mx,Zacatecas,1411536,1990
+mx,Aguascalientes,921455,1995
+mx,Baja California,2141544,1995
+mx,Baja California Sur,400689,1995
+mx,Campeche,629889,1995
+mx,Chiapas,3732214,1995
+mx,Chihuahua,2696225,1995
+mx,Coahuila,2198155,1995
+mx,Colima,517556,1995
+mx,Distrito Federal,8854328,1995
+mx,Durango,1452326,1995
+mx,Guanajuato,4946069,1995
+mx,Guerrero,3150484,1995
+mx,Hidalgo,2309474,1995
+mx,Jalisco,6200022,1995
+mx,Mexico,11593792,1995
+mx,Michoacan,4126500,1995
+mx,Morelos,1515491,1995
+mx,Nayarit,902700,1995
+mx,Nuevo Leon,3592317,1995
+mx,Oaxaca,3537381,1995
+mx,Puebla,4897412,1995
+mx,Queretaro,1404298,1995
+mx,Quintana Roo,751790,1995
+mx,San Luis Potosi,2318419,1995
+mx,Sinaloa,2388419,1995
+mx,Sonora,2074175,1995
+mx,Tabasco,1816067,1995
+mx,Tamaulipas,2506408,1995
+mx,Tlaxcala,914998,1995
+mx,Veracruz,7015838,1995
+mx,Yucatan,1587667,1995
+mx,Zacatecas,1429069,1995
+mx,Aguascalientes,1008665,2000
+mx,Baja California,2550175,2000
+mx,Baja California Sur,466491,2000
+mx,Campeche,700718,2000
+mx,Chiapas,4165086,2000
+mx,Chihuahua,2988463,2000
+mx,Coahuila,2393972,2000
+mx,Colima,550386,2000
+mx,Distrito Federal,8945613,2000
+mx,Durango,1497952,2000
+mx,Guanajuato,5146539,2000
+mx,Guerrero,3227392,2000
+mx,Hidalgo,2391088,2000
+mx,Jalisco,6514841,2000
+mx,Mexico,12934005,2000
+mx,Michoacan,4164182,2000
+mx,Morelos,1592543,2000
+mx,Nayarit,936829,2000
+mx,Nuevo Leon,3950242,2000
+mx,Oaxaca,3672878,2000
+mx,Puebla,5251691,2000
+mx,Queretaro,1554998,2000
+mx,Quintana Roo,938832,2000
+mx,San Luis Potosi,2390965,2000
+mx,Sinaloa,2538168,2000
+mx,Sonora,2290246,2000
+mx,Tabasco,1975947,2000
+mx,Tamaulipas,2790932,2000
+mx,Tlaxcala,1012000,2000
+mx,Veracruz,7233887,2000
+mx,Yucatan,1721459,2000
+mx,Zacatecas,1418299,2000
+mx,Aguascalientes,1096654,2005
+mx,Baja California,2912581,2005
+mx,Baja California Sur,546745,2005
+mx,Campeche,768047,2005
+mx,Chiapas,4548840,2005
+mx,Chihuahua,3270202,2005
+mx,Coahuila,2587446,2005
+mx,Colima,593776,2005
+mx,Distrito Federal,8980249,2005
+mx,Durango,1566132,2005
+mx,Guanajuato,5306944,2005
+mx,Guerrero,3306094,2005
+mx,Hidalgo,2504295,2005
+mx,Jalisco,6903160,2005
+mx,Mexico,14233027,2005
+mx,Michoacan,4233451,2005
+mx,Morelos,1681846,2005
+mx,Nayarit,997516,2005
+mx,Nuevo Leon,4330421,2005
+mx,Oaxaca,3749194,2005
+mx,Puebla,5545265,2005
+mx,Queretaro,1692254,2005
+mx,Quintana Roo,1134264,2005
+mx,San Luis Potosi,2477472,2005
+mx,Sinaloa,2689117,2005
+mx,Sonora,2501595,2005
+mx,Tabasco,2120271,2005
+mx,Tamaulipas,3075217,2005
+mx,Tlaxcala,1098618,2005
+mx,Veracruz,7409587,2005
+mx,Yucatan,1848057,2005
+mx,Zacatecas,1437170,2005
+mx,Aguascalientes,1196076,2010
+mx,Baja California,3223651,2010
+mx,Baja California Sur,649525,2010
+mx,Campeche,838337,2010
+mx,Chiapas,4908433,2010
+mx,Chihuahua,3524576,2010
+mx,Coahuila,2781661,2010
+mx,Colima,658994,2010
+mx,Distrito Federal,8945478,2010
+mx,Durango,1670001,2010
+mx,Guanajuato,5558932,2010
+mx,Guerrero,3445571,2010
+mx,Hidalgo,2690813,2010
+mx,Jalisco,7441709,2010
+mx,Mexico,15582775,2010
+mx,Michoacan,4421310,2010
+mx,Morelos,1803971,2010
+mx,Nayarit,1108657,2010
+mx,Nuevo Leon,4723507,2010
+mx,Oaxaca,3868729,2010
+mx,Puebla,5864677,2010
+mx,Queretaro,1848428,2010
+mx,Quintana Roo,1350560,2010
+mx,San Luis Potosi,2619249,2010
+mx,Sinaloa,2851257,2010
+mx,Sonora,2724327,2010
+mx,Tabasco,2256536,2010
+mx,Tamaulipas,3334567,2010
+mx,Tlaxcala,1187340,2010
+mx,Veracruz,7720425,2010
+mx,Yucatan,1981527,2010
+mx,Zacatecas,1509099,2010
+mx,Aguascalientes,1277914,2015
+mx,Baja California,3472012,2015
+mx,Baja California Sur,762715,2015
+mx,Campeche,906727,2015
+mx,Chiapas,520306,2015
+mx,Chihuahua,3691225,2015
+mx,Coahuila,2952707,2015
+mx,Colima,718314,2015
+mx,Distrito Federal,8835519,2015
+mx,Durango,1750333,2015
+mx,Guanajuato,5758227,2015
+mx,Guerrero,3540402,2015
+mx,Hidalgo,2855453,2015
+mx,Jalisco,7870637,2015
+mx,Mexico,16813933,2015
+mx,Michoacan,4542108,2015
+mx,Morelos,1903159,2015
+mx,Nayarit,1214551,2015
+mx,Nuevo Leon,5073874,2015
+mx,Oaxaca,3993458,2015
+mx,Puebla,6165081,2015
+mx,Queretaro,1993938,2015
+mx,Quintana Roo,1572808,2015
+mx,San Luis Potosi,2730490,2015
+mx,Sinaloa,2972964,2015
+mx,Sonora,2926902,2015
+mx,Tabasco,2382515,2015
+mx,Tamaulipas,3529522,2015
+mx,Tlaxcala,1274620,2015
+mx,Veracruz,8018080,2015
+mx,Yucatan,2116283,2015
+mx,Zacatecas,1555367,2015
+mx,Aguascalientes,1333216,2020
+mx,Baja California,3682097,2020
+mx,Baja California Sur,874525,2020
+mx,Campeche,970632,2020
+mx,Chiapas,5571480,2020
+mx,Chihuahua,3811986,2020
+mx,Coahuila,3009963,2020
+mx,Colima,761453,2020
+mx,Distrito Federal,8676955,2020
+mx,Durango,1787359,2020
+mx,Guanajuato,5849833,2020
+mx,Guerrero,3561053,2020
+mx,Hidalgo,2966725,2020
+mx,Jalisco,8110111,2020
+mx,Mexico,17840307,2020
+mx,Michoacan,4545495,2020
+mx,Morelos,1959508,2020
+mx,Nayarit,1293112,2020
+mx,Nuevo Leon,5386746,2020
+mx,Oaxaca,4093516,2020
+mx,Puebla,6409782,2020
+mx,Queretaro,2117770,2020
+mx,Quintana Roo,1792114,2020
+mx,San Luis Potosi,2783039,2020
+mx,Sinaloa,3054264,2020
+mx,Sonora,3109349,2020
+mx,Tabasco,2495543,2020
+mx,Tamaulipas,3680771,2020
+mx,Tlaxcala,1356098,2020
+mx,Veracruz,8240259,2020
+mx,Yucatan,2246021,2020
+mx,Zacatecas,1555369,2020
